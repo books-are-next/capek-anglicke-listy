@@ -1,8 +1,9 @@
 ---
+title: |-
+  Listy
+  o Irsku
 contentType: prose
 ---
-
-## Listy o Irsku
 
 #### I.
 

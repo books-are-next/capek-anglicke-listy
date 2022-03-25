@@ -1,8 +1,9 @@
 ---
+title: |-
+  Cesta
+  do Skotska
 contentType: prose
 ---
-
-## Cesta do Skotska
 
 ### Edinburgh
 

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Řeč
+  do britského rozhlasu
 contentType: prose
 ---
-
-## Řeč do britského rozhlasu
 
 Moji drazí britští posluchači,
 

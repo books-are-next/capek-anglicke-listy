@@ -1,8 +1,7 @@
 ---
+title: Anglie
 contentType: prose
 ---
-
-## Anglie
 
 ### První dojmy
 

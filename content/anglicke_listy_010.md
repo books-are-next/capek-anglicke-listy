@@ -1,8 +1,9 @@
 ---
+title: |-
+  Zase
+  v Anglii
 contentType: prose
 ---
-
-## Zase v Anglii
 
 ### Dartmoor
 
