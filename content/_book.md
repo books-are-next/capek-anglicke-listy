@@ -1,36 +1,42 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Anglické listy
+  identifier: 6a690f3c-9d07-42c2-8610-572e5f3d7fa2
+  author: Karel Čapek
+  publisher: Městská knihovna v Praze
+  modified: '2017-12-04T00:00:00.000Z'
+readingOrder:
+  - anglicke_listy_001.html
+  - anglicke_listy_002.html
+  - anglicke_listy_003.html
+  - anglicke_listy_004.html
+  - anglicke_listy_005.html
+  - anglicke_listy_006.html
+  - anglicke_listy_007.html
+  - anglicke_listy_008.html
+  - anglicke_listy_009.html
+  - anglicke_listy_010.html
+  - anglicke_listy_011.html
+  - anglicke_listy_012.html
+  - anglicke_listy_013.html
+  - anglicke_listy_014.html
+  - anglicke_listy_015.html
+  - anglicke_listy_016.html
+  - anglicke_listy_017.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
