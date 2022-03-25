@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Písmo svaté praví sice zcela zřejmě: „Ac efe a ddywedodd hefyd wrth y bobloedd. Pan weloch gwmmwl yn codi o’r gorllewin, yn y fan y dywedwch, Y mae cawod yn dyfod; ac felly y mae.“ (Luk. XIII, 54.)
 
 Ač tedy Bible waleská toto říká o západním větru, vydal jsem se při západním větru na horu Snowdon čili správně Eryri Y Wyddfa, abych viděl celou zemi Waleskou. Ac felly y mae: nejen pršelo, ale ocitl jsem se v mracích a takové zimě, že na temeni Snowdonu jsem se uchýlil ke kamnům; oheň je totiž velmi krásný na pohled a při řeřavějícím uhlí lze myslit na spoustu nejlepších věcí. Průvodce chválí krásu a rozmanitost vyhlídky z hory Snowdon; viděl jsem bílá a šedá mračna, dokonce jsem je cítil až pod košilí; na pohled to není přímo ošklivé, neboť je to bílé; ale příliš rozmanité to není. Nicméně bylo mi přáno spatřiti Lliwedd a Moel Offrwn i Cwm-y -Llan i Llyn Ffynnon Gwas i Grib-y -ddysgyl; i řekněte, nestojí-li tato krásná jména za trochu toho mžení, vichřice, zimy a mračen.

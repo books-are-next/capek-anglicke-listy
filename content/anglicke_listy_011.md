@@ -6,6 +6,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Za svých mladších let jsem znal jenom dva typy Angličanů: jeden se jmenoval John Bull, byl tlustý a brunátný, nosil holínky a jezdecké kalhoty a obyčejně byl provázen buldokem; druhý se jmenoval Mr. Smith nebo nějak podobně, byl dlouhý a kostnatý, nosil kostkované šaty a zrzavé licousy a vyznačoval se tím, že za každé příležitosti kladl nohy na stůl. Oba se vyskytovali hlavně v karikaturách a ve veselohrách.
 
 Když jsem později přišel do Anglie, shledal jsem k svému zklamání, že Angličané ve zdrcující většině nenosí kostkované šaty ani licousy, ani nekladou nohy na stůl; že (s výjimkou pana G. B. Shawa) nejsou nápadně dlouzí ani (s výjimkou pana G. K. Chestertona) nápadně zavalití. Tak člověk ztrácí iluze svého mládí. Naproti tomu jsem zjistil, že se Anglie téměř vším liší od kontinentu, počínajíc trávou a břečťanem a končíc univerzitou nebo parlamentem. Mohl bych dopodrobna napsat, čím se liší Nottinghill od Sevilly; ale byl bych v rozpacích, kdybych měl napsat, čím se obecně a bez výjimky liší obyvatelé hvězdy zvané Anglie od obyvatel hvězdy zvané Evropa. Je zajisté velký rozdíl co do zvyků a úrovně života mezi průměrným Britem a dejme tomu makedonským pastýřem; ale myslím, že skoro stejně nápadný je rozdíl mezi průměrným Britem ze Sněmovny lordů a Britem z Psího Ostrova. Nejsem si jist, mají-li obě tyto třídy Britů stejné nacionální kvality a stejné národní chyby. Mohl bych napsat pojednání o přednostech Angličanů, pokud jsem je pozoroval v klubu Athenaeum, nebo o jejich nepříjemných stránkách, pokud jsem je pozoroval jako turisty v Itálii; ale jsem si vědom, že ani Athenaeum, ani celá Itálie i se Sicílií a Riviérou není ještě celá Anglie.
