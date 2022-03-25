@@ -14,18 +14,18 @@
       "title": "mlpuroven2kapitola ",
       "subtitle": "",
       "h2": "",
-      "h3": "",
-      "h4": "",
+      "h3": "mlpuroven3nadpis ",
+      "h4": "mlpuroven4nadpis ",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3",
       "brAfter": "",
       "blockquote": "",
-      "figure": "",
-      "em": "",
-      "strong": "",
+      "figure": "mlpobrazky mlpobrazky1 ",
+      "em": "mlpdopispodpisi mlpverse mlpznakkurziva11b mlpznaktucnakurziva11b ",
+      "strong": "mlptirazautoranazev mlptextbez1radkub mlpznaktucnakurziva11b  mlpznaktucne11b ",
       "remove": "",
       "ignore": ""
     },
@@ -39,12 +39,13 @@
             "filename": "anglicke_listy_001.md",
             "xhtml": "anglicke_listy_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "anglicke_listy_002.md",
@@ -52,32 +53,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "anglicke_listy_003.md",
             "xhtml": "anglicke_listy_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "anglicke_listy_004.md",
             "xhtml": "anglicke_listy_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "anglicke_listy_005.md",
@@ -88,7 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "anglicke_listy_006.md",
@@ -99,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Anglie"
           },
           {
             "filename": "anglicke_listy_007.md",
@@ -110,7 +118,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cesta\ndo Skotska"
           },
           {
             "filename": "anglicke_listy_008.md",
@@ -121,7 +131,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Severní\nWales"
           },
           {
             "filename": "anglicke_listy_009.md",
@@ -132,7 +144,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Listy\no Irsku"
           },
           {
             "filename": "anglicke_listy_010.md",
@@ -143,7 +157,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zase\nv Anglii"
           },
           {
             "filename": "anglicke_listy_011.md",
@@ -154,7 +170,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vy\nAngličané\n(K anketě Daily Heraldu)"
           },
           {
             "filename": "anglicke_listy_012.md",
@@ -165,7 +183,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Řeč\ndo britského rozhlasu"
           },
           {
             "filename": "anglicke_listy_013.md",
@@ -176,7 +196,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "anglicke_listy_014.md",
@@ -187,7 +209,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Život\na doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "anglicke_listy_015.md",
@@ -198,7 +222,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "anglicke_listy_016.md",
@@ -209,18 +235,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "anglicke_listy_017.md",
             "xhtml": "anglicke_listy_017.html",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -729,6 +758,6 @@
       "user": "books-are-next",
       "repo": "capek-anglicke-listy"
     },
-    "generatedAt": 1648209820579
+    "generatedAt": 1648210585359
   }
 }

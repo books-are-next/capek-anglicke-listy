@@ -1,38 +1,18 @@
 {
   "author": "Karel Čapek",
   "contenttype": "prose",
-  "identifier": "capek-anglicke-listy-bf0141c",
+  "identifier": "capek-anglicke-listy-3eac64d",
   "languagecode": "cs",
   "modified": "2017-12-04T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Anglické listy",
-  "revision": "bf0141c",
+  "revision": "3eac64d",
   "generatedAt": {
-    "date": "Fri Mar 25 2022 12:05:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648209912504
+    "date": "Fri Mar 25 2022 12:17:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648210672625
   },
   "documents": [
-    {
-      "title": "Anglické listy",
-      "file": "anglicke_listy_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "anglicke_listy_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Anglické listy",
       "file": "anglicke_listy_002.html",
@@ -40,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "anglicke_listy_001.html",
-      "next": "anglicke_listy_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Anglické listy",
-      "file": "anglicke_listy_003.html",
-      "words": 4,
-      "chars": 25,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "anglicke_listy_002.html",
-      "next": "anglicke_listy_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Anglické listy",
-      "file": "anglicke_listy_004.html",
-      "words": 81,
-      "chars": 549,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "anglicke_listy_003.html",
+      "order": 0,
+      "prev": null,
       "next": "anglicke_listy_005.html",
       "toc": [
         {
@@ -100,8 +40,8 @@
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
-      "prev": "anglicke_listy_004.html",
+      "order": 1,
+      "prev": "anglicke_listy_002.html",
       "next": "anglicke_listy_006.html",
       "toc": [
         {
@@ -120,7 +60,7 @@
       "chars": 56486,
       "ideas": 114,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "anglicke_listy_005.html",
       "next": "anglicke_listy_007.html",
       "toc": [
@@ -140,7 +80,7 @@
       "chars": 20640,
       "ideas": 74,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "anglicke_listy_006.html",
       "next": "anglicke_listy_008.html",
       "toc": [
@@ -160,7 +100,7 @@
       "chars": 2873,
       "ideas": 10,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "anglicke_listy_007.html",
       "next": "anglicke_listy_009.html",
       "toc": [
@@ -180,7 +120,7 @@
       "chars": 1926,
       "ideas": 25,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "anglicke_listy_008.html",
       "next": "anglicke_listy_010.html",
       "toc": [
@@ -200,7 +140,7 @@
       "chars": 21509,
       "ideas": 72,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "anglicke_listy_009.html",
       "next": "anglicke_listy_011.html",
       "toc": [
@@ -220,7 +160,7 @@
       "chars": 5524,
       "ideas": 8,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "anglicke_listy_010.html",
       "next": "anglicke_listy_012.html",
       "toc": [
@@ -240,7 +180,7 @@
       "chars": 12459,
       "ideas": 22,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "anglicke_listy_011.html",
       "next": "anglicke_listy_013.html",
       "toc": [
@@ -260,7 +200,7 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "anglicke_listy_012.html",
       "next": "anglicke_listy_014.html",
       "toc": [
@@ -276,11 +216,11 @@
     {
       "title": "Život\na doba spisovatele\nKarla Čapka v datech • Anglické listy",
       "file": "anglicke_listy_014.html",
-      "words": 293,
-      "chars": 2024,
+      "words": 294,
+      "chars": 2025,
       "ideas": 33,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "anglicke_listy_013.html",
       "next": "anglicke_listy_015.html",
       "toc": [
@@ -300,7 +240,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "anglicke_listy_014.html",
       "next": "anglicke_listy_016.html",
       "toc": [
@@ -320,9 +260,9 @@
       "chars": 781,
       "ideas": 13,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "anglicke_listy_015.html",
-      "next": "anglicke_listy_017.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -334,20 +274,20 @@
       ]
     },
     {
-      "title": "Anglické listy",
-      "file": "anglicke_listy_017.html",
-      "words": 48,
-      "chars": 317,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 16,
+      "title": "Tiráž • Anglické listy",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 896,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "anglicke_listy_016.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -356,14 +296,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21127,
-      "chars": 127838,
+      "words": 21128,
+      "chars": 127839,
       "ideas": 474
     },
     "chapters": {
-      "words": 21121,
-      "chars": 127805,
-      "ideas": 470
+      "words": 20989,
+      "chars": 126915,
+      "ideas": 448
     }
   }
 }

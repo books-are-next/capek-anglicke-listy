@@ -7,6 +7,8 @@ contentType: prose
 
 ### Dartmoor
 
+  
+
 Nuže, viděl jsem vše: viděl jsem hory a jezera, moře, pastviny i kraje podobné zahradám; jen pořádný anglický les jsem neviděl, neboť tady, abych tak řekl, pro samé stromy nemají les. I rozjel jsem se na místo, kde je na mapě „Dartmoor Forest“ čili hvozd Dartmoorský; mimoto Dartmoor je, neklamu-li se v literární historii, oblast Baskerwillského psa. Cestou jsem se podíval, odkud vyjela Hispaniola na Stevensonův Ostrov pokladů; je to v Bristolu, nejspíš u toho mostu, kde stála ta briga vonící pomeranči. Jinak v Bristolu není docela nic, leda pěkný kostel, kde bylo zrovna nějaké modlení, katedrála, kde také byla právě pobožnost se zpěvy a kázáním, a konečně starý špitál, kde jsem si nakreslil vousatou karyatidu, chiméru s plnovousem, což je na Bristol dosti zajímavé.
 
 ![55](./resources/55.jpg)  
@@ -23,6 +25,8 @@ Nahoru a dolů, nahoru a dolů zeleným Devonem mezi dvěma zdmi živého plotu,
 
 ### Přístavy
 
+  
+
 Ale ovšemže jsem se byl podívat na přístavy, a viděl jsem jich tolik, že si je nyní pletu. Tak počkejte, ve Folkestone, v Londýně, v Leith, v Glasgowě, to jsou čtyři; potom v Liverpoolu, v Bristolu, v Plymouth, a možná že jich bylo ještě víc. Nejhezčí je Plymouth, který je pěkně zavrtán mezi skalami a ostrovy a kde mají starý přístav v Barbikanu s opravdovými námořníky, rybáři a černými bárkami, a nový přístav pod promenádou Hoe s kapitány, sochami a pruhovaným majákem. Ten maják jsem nakreslil, ale není tam vidět, že je bledě modrá noc, že na moři jiskří zelené a rudé lampy bójí a lodí, že sedím pod majákem a mám na klíně černou kočku – myslím skutečnou kočku – a hladím moře, číču, světélka na vodě a celý svět v záchvatu pošetilé radosti, že jsem na světě; a dole v Barbikanu to smrdí rybinou a oceánem jako za časů starého Drakea a kapitána Marryata a moře je pokojné, širé a světelné – říkám vám, v Plymouth je ten nejhezčí přístav.
 
 ![57](./resources/57.jpg)  
@@ -36,6 +40,8 @@ Avšak nikoliv, kormidelníku, obrať prosím; ještě nepoplujeme domů. Nech n
 Dobrá, nerozumím tomu; jako by to ani nebyla jedna země a jeden národ. Budiž, tedy vyplujeme; ať mne postříká moře, ať do mne pere vítr; myslím, že jsem viděl příliš mnoho.
 
 ### Merry Old England
+
+  
 
 Ještě jednou se však musíme zastavit; musíme se jenom podívat, kde tu vlastně je ta veselá stará Anglie. Stará Anglie, to je, dejme tomu, Stratford, to je Chester, Exeter a já nevím co ještě. Stratford, Stratford, počkejme, byl jsem tam? Ne, nebyl; i neviděl jsem rodný domek Shakespearův, nehledíme-li k tomu, že je od gruntu přestavěn a mimoto že snad žádný Shakespeare vůbec neexistoval. Ale zato jsem byl v Salisbury, kde působil zcela nepochybný Massinger, a v londýnském Templu, kde se zdržoval zaručený Dickens, a v Grasmere, kde žil historicky doložený Wordsworth, a v mnoha jiných dokumentárně nesporných rodištích a působištích. Dobrá, našel jsem porůznu onu dobrou starou Anglii, která po zevní stránce pozůstává z černého trámoví a vyřezávání, následkem čehož je pěkně černobíle pruhovaná. Nerad bych dělal příliš odvážné hypotézy; ale zdá se mi, že černobílé proužky na rukávech anglických strážníků mají svůj původ právě v tom pruhovaném slohu staroanglických domů, jak ukazuje náš obrázek.
 
@@ -54,6 +60,8 @@ To nejkrásnější v Anglii jsou však stromy, stáda a lidé; a pak ještě lo
 Celkem vzato, země, která dovedla vytvořit nejkrásnější dětství a nejsvěžejší stáří, má jistě něco nejlepšího v tomto slzavém údolí.
 
 ### Poutník si všímá lidí
+
+  
 
 V Anglii bych chtěl být krávou nebo dítětem; jsa však mužem dospělým a zarostlým, díval jsem se na lidi této země. Nuže, není pravda, že Angličané nosí šmahem kostkované šaty, lulku nebo licousy; co se toho posledního týče, jediným pravým Angličanem je dr. Bouček v Praze. Každý Angličan nosí gumák nebo deštník, placatou čepici a v ruce noviny; je-li to Angličanka, nosí gumák nebo tenisovou raketu. Příroda má tu sklon k neobyčejné huňatosti, obrůstání, kosmatosti, vlnatosti, ježatosti a všeho druhu chlupu; tak například angličtí koně mají celé trsy a třapce chlupů na nohou a angličtí psi nejsou nic jiného než směšné balíky čupřin. Jen anglický trávník a anglický gentleman se denně holí.
 
@@ -77,37 +85,41 @@ Ale poznáte-li je blíže, jsou velmi milí a jemní; nikdy nemluví mnoho, pro
 
 ### Několik tváří
 
+  
+
 Avšak mám tu ještě několik tváří, které musím udat a popsat.
 
 ![63](./resources/63.jpg)  
 
-To je pan Seton Watson čili Scotus Viator; znáte jej všichni, neboť bojoval s námi jako archanděl Gabriel. Má dům na ostrově Skye, píše historii Srbů a večer hraje na pianolu u krbu s hořící rašelinou; má krásnou vysokou paní, dva nepromokavé kluky a modrooké nunátko, okna k moři a ostrovům, dětská ústa a pokoje plné předků a obrazů z Čech; jemný a váhavý člověk daleko subtilnější tváře, než bys čekal u tohoto přísného a spravedlivého skotského poutníka.
+To je pan _Seton Watson_ čili Scotus Viator; znáte jej všichni, neboť bojoval s námi jako archanděl Gabriel. Má dům na ostrově Skye, píše historii Srbů a večer hraje na pianolu u krbu s hořící rašelinou; má krásnou vysokou paní, dva nepromokavé kluky a modrooké nunátko, okna k moři a ostrovům, dětská ústa a pokoje plné předků a obrazů z Čech; jemný a váhavý člověk daleko subtilnější tváře, než bys čekal u tohoto přísného a spravedlivého skotského poutníka.
 
 ![64](./resources/64.jpg)  
 
-To je pan Nigel Playfair, divadelník; to je ten pán, co zanesl do Anglie moje kusy, ale dělá i lepší věci, je kliďas, umělec, podnikatel a jeden z mála opravdu moderních režisérů v Anglii.
+To je pan _Nigel Playfair_, divadelník; to je ten pán, co zanesl do Anglie moje kusy, ale dělá i lepší věci, je kliďas, umělec, podnikatel a jeden z mála opravdu moderních režisérů v Anglii.
 
 ![65](./resources/65.jpg)  
 
-To je pan John Galsworthy, jednou jako dramatik a podruhé jako romanopisec, neboť, jářku, musíte ho znát po obou stránkách. Je to velmi tichý, jemný a dokonalý muž s tváří kněze nebo sudího, útlý a šlašitý, udělaný z taktu, zdrželivosti a zamyšlené plachosti, nesmírně vážný, jen kolem očí se mu to usmívá vlídnými, pozorně nabranými vráskami; má paní, která je mu velmi podobna, a jeho knížky jsou dokonalá a moudrá díla citlivého a poněkud smutného pozorovatele.
+To je pan _John Galsworthy_, jednou jako dramatik a podruhé jako romanopisec, neboť, jářku, musíte ho znát po obou stránkách. Je to velmi tichý, jemný a dokonalý muž s tváří kněze nebo sudího, útlý a šlašitý, udělaný z taktu, zdrželivosti a zamyšlené plachosti, nesmírně vážný, jen kolem očí se mu to usmívá vlídnými, pozorně nabranými vráskami; má paní, která je mu velmi podobna, a jeho knížky jsou dokonalá a moudrá díla citlivého a poněkud smutného pozorovatele.
 
 ![66](./resources/66.jpg)  
 
-To je pan G. K. Chesterton; nakreslil jsem ho letícího, jednak proto, že jsem z něho mohl mít spíše jen letmý dojem, a pak pro jeho rajskou bujarost. Bohužel v té chvíli byl snad nějak stísněn situací trochu oficiální; mohl se jenom usmívat, ale jeho úsměv vydá za tři jiné. Kdybych mohl psát o jeho knížkách, o jeho poetické demokratičnosti, o jeho geniálním optimismu, byl by to nejveselejší z mých listů; ale protože jsem si vzal do hlavy psát jenom o tom, co jsem viděl svýma očima, popisuji vám rozsáhlého pána, jenž prostorovým útvarem připomíná Viktora Dyka, má mušketýrské kníry a plachá, chytrá očka pod skřipcem a rozpačité ruce, jaké mívají tlustí lidé, a vlající kravatu; je to zároveň dítě, obr, kudrnatý beránek a tur; má velkou brunátnou hlavu zamyšleného a vrtošivého výrazu a na první pohled ve mně budil ostych a prudkou náklonnost; víckrát jsem ho neviděl.
+To je pan _G. K. Chesterton_; nakreslil jsem ho letícího, jednak proto, že jsem z něho mohl mít spíše jen letmý dojem, a pak pro jeho rajskou bujarost. Bohužel v té chvíli byl snad nějak stísněn situací trochu oficiální; mohl se jenom usmívat, ale jeho úsměv vydá za tři jiné. Kdybych mohl psát o jeho knížkách, o jeho poetické demokratičnosti, o jeho geniálním optimismu, byl by to nejveselejší z mých listů; ale protože jsem si vzal do hlavy psát jenom o tom, co jsem viděl svýma očima, popisuji vám rozsáhlého pána, jenž prostorovým útvarem připomíná Viktora Dyka, má mušketýrské kníry a plachá, chytrá očka pod skřipcem a rozpačité ruce, jaké mívají tlustí lidé, a vlající kravatu; je to zároveň dítě, obr, kudrnatý beránek a tur; má velkou brunátnou hlavu zamyšleného a vrtošivého výrazu a na první pohled ve mně budil ostych a prudkou náklonnost; víckrát jsem ho neviděl.
 
 ![67](./resources/67.jpg)  
 
-A to je pan H. G. Wells, jednou, jak vypadá mezi lidmi, a podruhé, jak vypadá doma; masivní hlava, silné, rozložité plece, silné a teplé dlaně; podobá se hospodáři, dělnému člověku, otci a všemu na světě. Má tenký a zamžený hlas člověka, který není řečníkem, tvář popsanou myšlením a prací, harmonický dům, pěknou drobnou paní, čilou jako čečetka, dva velké hravé hochy, oči jakoby přimhouřené a obestřené pod silným anglickým obočím. Prostý a rozumný, zdravý, silný, velmi informovaný a velmi obyčejný ve všem, co toto slovo má dobrého a vitálního. Člověk zapomíná, že mluví s velkým spisovatelem, protože mluví s rozvážným a univerzálním člověkem. Buďte hodně zdráv, Mr. Wells.
+A to je pan _H. G. Wells_, jednou, jak vypadá mezi lidmi, a podruhé, jak vypadá doma; masivní hlava, silné, rozložité plece, silné a teplé dlaně; podobá se hospodáři, dělnému člověku, otci a všemu na světě. Má tenký a zamžený hlas člověka, který není řečníkem, tvář popsanou myšlením a prací, harmonický dům, pěknou drobnou paní, čilou jako čečetka, dva velké hravé hochy, oči jakoby přimhouřené a obestřené pod silným anglickým obočím. Prostý a rozumný, zdravý, silný, velmi informovaný a velmi obyčejný ve všem, co toto slovo má dobrého a vitálního. Člověk zapomíná, že mluví s velkým spisovatelem, protože mluví s rozvážným a univerzálním člověkem. Buďte hodně zdráv, Mr. Wells.
 
 ![68](./resources/68.jpg)  
 
-Toto je osoba téměř nadpřirozená, pan Bernard Shaw; nemohl jsem ho nakreslit lépe, neboť pořád se hýbe a povídá. Je ohromně vysoký, tenký a rovný, vypadá polo jako Pán Bůh a polo jako velmi zlomyslný satyr, který však tisíciletou sublimací ztratil všechno příliš přírodní. Má bílé vlasy, bílou bradu a velmi růžovou pleť, nelidsky jasné oči, silný a bojovný nos, něco rytířského z Dona Quijota, něco apoštolského a něco, co si dělá legraci ze všeho na světě, i ze sebe sama; jakživ jsem neviděl bytost tak neobyčejnou; abych řekl pravdu, já jsem se ho bál. Myslil jsem, že je to nějaký duch, který si jenom hraje na slavného Bernarda Shawa. Je vegetariánem, nevím, zda ze zásady nebo z gurmánství; člověk nikdy neví, mají-li lidé zásady ze zásady nebo pro osobní potěšení. Má rozvážnou paní, tichý klavecisínek[\[10\]](./resources/undefined) a okna na Temži; jiskří životem a povídá spoustu zajímavých věcí o sobě, o Strindbergovi, o Rodinovi a jiných slavných věcech; naslouchat mu je rozkoš spojená s hrůzou.
+Toto je osoba téměř nadpřirozená, pan _Bernard Shaw_; nemohl jsem ho nakreslit lépe, neboť pořád se hýbe a povídá. Je ohromně vysoký, tenký a rovný, vypadá polo jako Pán Bůh a polo jako velmi zlomyslný satyr, který však tisíciletou sublimací ztratil všechno příliš přírodní. Má bílé vlasy, bílou bradu a velmi růžovou pleť, nelidsky jasné oči, silný a bojovný nos, něco rytířského z Dona Quijota, něco apoštolského a něco, co si dělá legraci ze všeho na světě, i ze sebe sama; jakživ jsem neviděl bytost tak neobyčejnou; abych řekl pravdu, já jsem se ho bál. Myslil jsem, že je to nějaký duch, který si jenom hraje na slavného Bernarda Shawa. Je vegetariánem, nevím, zda ze zásady nebo z gurmánství; člověk nikdy neví, mají-li lidé zásady ze zásady nebo pro osobní potěšení. Má rozvážnou paní, tichý klavecisínek[\[10\]](./resources/undefined) a okna na Temži; jiskří životem a povídá spoustu zajímavých věcí o sobě, o Strindbergovi, o Rodinovi a jiných slavných věcech; naslouchat mu je rozkoš spojená s hrůzou.
 
 ![69](./resources/69.jpg)  
 
 Měl bych ještě nakreslit mnoho pozoruhodných a krásných hlav, které jsem potkal; byli to muži, ženy i hezké dívky, literáti, žurnalisté, studenti, Indové, učenci, clubmani, Amerikáni a všecko, co je na světě; ale musím se už loučit, přátelé; nechci věřit, že jsem vás viděl naposled.
 
 ### Útěk
+
+  
 
 Nakonec vyzradím hrozné věci; například anglická neděle je strašlivá. Lidé říkají, že neděle je proto, aby se mohlo jet do přírody; není to pravda; lidé jedou do přírody, aby se v divoké panice zachránili před anglickou nedělí. V sobotu popadne každého Brita temný pud někam uprchnout, tak jako zvěř v temném pudu prchá před blížícím se zemětřesením. Kdo nemohl uniknout, uchýlí se aspoň do kostela, aby v modlitbách a zpěvu přečkal den hrůzy. Den, kdy se nevaří, nejezdí, nekouká a nemyslí. Nevím, pro jaké nevýslovné viny odsoudil Hospodin Anglii k týdennímu trestu neděle.
 
@@ -124,6 +136,8 @@ Kontinent je hlučnější, méně ukázněný, špinavější, vzteklejší, pr
 ![71](./resources/71.jpg)  
 
 ### Na lodi
+
+  
 
 Člověk na břehu by chtěl být na lodi, jež odjíždí; člověk na lodi by chtěl být na břehu, který je v dálce. Když jsem byl v Anglii, pořád jsem myslil na to, co krásného je doma. Až budu doma, budu snad myslit na to, co je v Anglii vyššího a lepšího než kde jinde.
 

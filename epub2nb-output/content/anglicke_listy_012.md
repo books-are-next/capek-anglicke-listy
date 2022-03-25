@@ -5,7 +5,11 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Moji drazí britští posluchači,
+
+  
 
 ačkoliv tuto řeč nebudu sám mluvit, pociťuji, zatímco ji píšu, jisté rozpaky před vámi. Zdá se mi, že by nebylo slušno, abych řekl cokoliv proti vám, protože se nemůžete bránit; nemůžete mně skočit do řeči a protestovat, že nemám pravdu. Pravda, mohli byste mne vypnout nebo případně chopit se kladiva a rozbít svůj přijímač; přesto by jakési vlny (nebo co to je) pobíhaly vesmírem a roznášely křivé poznatky o ostrovanech Velké Británie. Mimoto jsem cizinec a byl jsem v Anglii jenom jednou; proto prosím, abyste mne nepokládali za znalce, který ví o Anglii více než jiní, nýbrž právě za cizince, který se v Anglii podivil věcem, kterým vy se nedivíte.
 

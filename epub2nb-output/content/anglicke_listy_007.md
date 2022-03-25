@@ -7,6 +7,8 @@ contentType: prose
 
 ### Edinburgh
 
+  
+
 A nyní na sever, na sever! Ubíhá hrabství za hrabstvím, v některém krávy leží, v některém stojí, někde se pasou ovce, jinde koně a jinde jenom vrány. Zjeví se šedé moře, skály a mokřiny, přestávají živé ploty a místo nich táhnou se kamenné zídky. Kamenné zídky, kamenné vsi, kamenná města; za řekou Tweed je kamenná země.
 
 ![26](./resources/26.jpg)  
@@ -22,6 +24,8 @@ Před hradem běhá baletka s bodákem a v kostkovaném kiltu; deset kroků k br
 ![28](./resources/28.jpg)  
 
 ### Loch Tay
+
+  
 
 Kdybych byl básníkem jako Karel Toman nebo Otakar Fischer, napsal bych dnes básničku ne dlouhou, ale krásnou. Byla by o skotských jezerech, byla by prováta skotským větrem a orosena každodenním skotským deštěm; bylo by tam něco o modrých vlnách, vřesu, kapradí a dumavých cestách; neřekl bych tam, že ty dumavé cesty jsou vesměs obehnány plotem (snad proto, aby tam nemohly jít tancovat čarodějnice). Musím říci surovou prózou, jak je tu krásně: modré a fialové jezero mezi holými kopci – to jezero sluje Loch Tay a každé údolí se jmenuje Glen, každá hora Ben a každý člověk Mac; jezero modré a pokojné, vítr jiskřivě vanoucí, huňatí, černí či ryšaví býčkové na lukách, smolně černé bystřiny a kopce baladicky pusté, porostlé travou a vřesovisky, – jak vám to mám vylíčit? Bylo by přece jen nejlépe napsat to ve verších; ale nenapadá mne žádný rým na slovo „vítr“.
 
@@ -42,6 +46,8 @@ Skotská neděle je ještě horší než anglická a skotské bohoslužby vyvol�
 A zjevilo se mi jiné Skotsko pod šedými nebesy: pusté a dlouhé gleny[\[7\]](./resources/undefined) se zbořenými kamennými chýšemi, kamenné zídky běžící po stráních, na míle a míle stěží jeden kamenný, jakoby neobydlený domek; tu a tam pole ovsa s úrodou na prst vysokou, vše ostatní jen kapradí a kameny a tráva tuhá jako mech; někdy zabečí ovce bez pastýře lezoucí po stráni, někdy zakřičí naříkavě pták, dole hučí černá, do žluta zpěněná řeka Dochart mezi sukovitými dubisky. Divná, tvrdá, jakoby předhistorická země. Mraky se přetahují přes temena kopců, dešťový závoj zastiňuje teskný a prázdný kraj, který se dosud nepodrobil ruce člověka; a dole hučí po černém kamení černá řeka Dochart.
 
 ### „Binnorie, o Binnorie“
+
+  
 
 Nes mne, Královno jezera, po břitce šedém a modrém Loch Tay, mezi bezlidnými báněmi kopců pod nebesy, jež mne častují deštěm i sluncem; nes mne, čisťounká lodi, po třpytivém hedvábí jezera Tay.
 
@@ -71,6 +77,8 @@ A nyní mne vezou do údolí, na mezích tryskají žluté jiskry kručinek, pla
 
 ### Terra Hyperborea[**\[8\]**](./resources/undefined)
 
+  
+
 Jsem v končině, která se jmenuje Skye čili Obloha; ale nejsem na nebi, nýbrž jen na Hebridách, na velkém divném ostrově mezi ostrovy, na ostrově složeném z fjordů, rašeliny, skal a štítů; sbírám barevné mušličky mezi oblázky modravými nebo plavými a ze zvláštní milosti nebes nalézám i trus divokého losa, jenž je dojnou krávou galských rusalek. Stráně mokvají jako napitá houba, vřes bruach mne chytá za nohy, ale pak, lidi, je vidět ostrov Raasay a Scalpay, Rum a Eigg a pak je vidět hory podivných a prastarých jmen, jako Beinn na-Caillich a Sgurr na-Banachdich a Leacan Nighean an-t-Siosalaich nebo dokonce Druim nan Cleochd, kdežto tamty lysé báně se jmenují jen Blaven, docela prostě Blaven. A tenhle potůček je prostě Aan Reidhe Mhoire a tamten písčitý zálivek je jednoduše Sron Ard-a-Mhullaich. Tato a všechna ostatní jména ukazují krásu a podivnost ostrova Skye.
 
 Je krásný a chudý; a původní chýše vypadají tak předhistoricky, jako by je stavěli nebožtíci Piktové, o nichž, jak známo, není známo nic. Pak sem přišli galští Kaledonci a odněkud z Norska Vikingové; král Hakon tu dokonce po sobě nechal kamenný hrádek, a proto se to místo jmenuje Kyle Akin. Jinak všichni tito dobyvatelé nechali ostrov Skye v původním stavu, jak vyšel z ruky Boží: divoký, pustý a rozrytý, mokrý a vznešený, strašný a líbezný. Kamenné chaloupky zarůstají travou a mechem, nebo se rozpadají, opuštěny od lidí.
@@ -81,10 +89,10 @@ Jednou za týden svítí slunce a pak se odhalí štíty hor ve všech nevýslov
 
 Ale pak vylezou mraky z dolin a hor, moře zešedne a sychravý déšť splývá s mokvajícími svahy. V domě hodných lidí hoří rašelina v krbu, antická paní zpívá skotské balady a já zpívám s ostatními divnou a starou píseň
 
-„tha tighin fodham, fodham, fodham,  
+_„tha tighin fodham, fodham, fodham,  
 tha tighin fodham, fodham, fodham,  
 tha tighin fodham, fodham, fodham,  
-tha tighin fodham eirigh.“
+tha tighin fodham eirigh.“_
 
 A pak se všichni držíme dokola za ruce a zpíváme něco skotského o loučení nebo o shledání. Mezi výspami ostrovů je vidět úzký pruh volného moře; tudy prý plují velrybáři na Island nebo do Grónska. Člověče, proč ti je smutno, když se díváš na ten proužek volného moře? Buďte pozdraveny, země, které snad nikdy neuvidím!
 
@@ -95,6 +103,8 @@ Ach, viděl jsem modrá a ohnivá moře a hebounké pláže a palmy skloněné n
 A to silné, šplounající moře pod nohama, a ta otevřená cesta na sever…
 
 ### „But I Am Annie Of Lochroyan“
+
+  
 
 Avšak kapitán parníčku se nedal zlákat tou volnou cestou na sever; byl to rozšafný muž a místo do Grónska nebo na Island plul prostě do Mallaig; patrně nečetl Jack Londona.
 
@@ -125,6 +135,8 @@ A tento krátký list platí tobě, Glasgowe, město bez krásy, město hluku a 
 ![45](./resources/45.jpg)  
 
 ### Jezerní oblast
+
+  
 
 Aby se neřeklo, že jsou jezera jenom ve Skotsku, jsou také v Anglii, kde mají vykázána hnedle celý distrikt; i je tam Derwent Water a jezero Bassenthwaite, Wast Water a Thirlmerské jezero a Grasmerské jezero a Windermerské jezero a Ullswater a mnoho jiných; a zde žili jezerní básníci a Wordsworth tu má hrobeček v Grasmere vedle pěkného starého kostýlku s dubovým stropem v údolí kudrnatých stromů; ale ačkoliv je tato věta tak dlouhá, neobsáhla všechny rozkoše líbezné krajiny jezerní. Tak řekněme Keswick je městečko stavěné na rozdíl ode všech městeček na světě z čistě zelených kamenů; ale protože tu nemám zelenou barvu, nakreslil jsem vám aspoň obecní síň, která je rovněž pěkná. Z důvodů turistických je tu hora Skiddaw a potom mezi háji a parky něžné jezero Derwent Water, které jsem kreslil za večera tak sladkého a tichého, že mi bylo až úzko radostí; západ česal kadeřavé vlnky zlatým hřebenem, a tady si poutník sedl nad tichou sítinou a již se mu nechtělo domů; tak je ta voda opojná a klidná. Průvodce po Jezerním distriktu udává různé hory, průsmyky a krásné vyhlídky, jakož i kámen, na kterém sedával Wordsworth, a jiné místní krásy. Co mne se týče, objevil a vykonal jsem několik poutí:
 
