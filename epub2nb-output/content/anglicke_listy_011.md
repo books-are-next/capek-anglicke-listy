@@ -1,9 +1,10 @@
 ---
+title: |-
+  Vy
+  Angličané
+  (K anketě Daily Heraldu)
 contentType: prose
 ---
-
-## Vy Angličané  
-(K anketě Daily Heraldu)
 
 Za svých mladších let jsem znal jenom dva typy Angličanů: jeden se jmenoval John Bull, byl tlustý a brunátný, nosil holínky a jezdecké kalhoty a obyčejně byl provázen buldokem; druhý se jmenoval Mr. Smith nebo nějak podobně, byl dlouhý a kostnatý, nosil kostkované šaty a zrzavé licousy a vyznačoval se tím, že za každé příležitosti kladl nohy na stůl. Oba se vyskytovali hlavně v karikaturách a ve veselohrách.
 

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Severní
+  Wales
 contentType: prose
 ---
-
-## Severní Wales
 
 Písmo svaté praví sice zcela zřejmě: „Ac efe a ddywedodd hefyd wrth y bobloedd. Pan weloch gwmmwl yn codi o’r gorllewin, yn y fan y dywedwch, Y mae cawod yn dyfod; ac felly y mae.“ (Luk. XIII, 54.)
 

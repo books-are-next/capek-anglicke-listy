@@ -1,9 +1,10 @@
 ---
+title: |-
+  Život
+  a doba spisovatele
+  Karla Čapka v datech
 contentType: prose
 ---
-
-## Život a doba spisovatele  
-Karla Čapka v datech
 
 1890
 

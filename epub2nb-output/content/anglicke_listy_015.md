@@ -1,8 +1,7 @@
 ---
+title: První vydání knih Karla Čapka
 contentType: prose
 ---
-
-## První vydání knih Karla Čapka
 
 1917
 

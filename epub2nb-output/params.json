@@ -1,28 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Anglické listy",
       "identifier": "6a690f3c-9d07-42c2-8610-572e5f3d7fa2",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-12-04T00:00:00.000Z"
+      "modified": "2017-12-04T00:00:00.000Z",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "mlpuroven2kapitola ",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +33,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "anglicke_listy_001.md",
@@ -256,73 +260,73 @@
         "xhtml": "anglicke_listy_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_005.md",
         "xhtml": "anglicke_listy_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Anglie",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_006.md",
         "xhtml": "anglicke_listy_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cesta\ndo Skotska",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_007.md",
         "xhtml": "anglicke_listy_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Severní\nWales",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_008.md",
         "xhtml": "anglicke_listy_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Listy\no Irsku",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_009.md",
         "xhtml": "anglicke_listy_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zase\nv Anglii",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_010.md",
         "xhtml": "anglicke_listy_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vy\nAngličané\n(K anketě Daily Heraldu)",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_011.md",
         "xhtml": "anglicke_listy_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Řeč\ndo britského rozhlasu",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_012.md",
         "xhtml": "anglicke_listy_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_013.md",
         "xhtml": "anglicke_listy_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_014.md",
         "xhtml": "anglicke_listy_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_015.md",
         "xhtml": "anglicke_listy_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "anglicke_listy_016.md",
         "xhtml": "anglicke_listy_016.html"
@@ -725,6 +729,6 @@
       "user": "books-are-next",
       "repo": "capek-anglicke-listy"
     },
-    "generatedAt": 1648209433895
+    "generatedAt": 1648209820579
   }
 }

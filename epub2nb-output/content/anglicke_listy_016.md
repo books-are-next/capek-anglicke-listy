@@ -1,8 +1,7 @@
 ---
+title: Poznámky pod čarou
 contentType: prose
 ---
-
-## Poznámky pod čarou
 
 [\[1\]](./resources/undefined) Punch – tehdejší humoristický časopis. _Pozn. red._
 
