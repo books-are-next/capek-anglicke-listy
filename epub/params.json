@@ -1,1 +1,735 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Anglické listy",
+      "identifier": "6a690f3c-9d07-42c2-8610-572e5f3d7fa2",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-12-04T00:00:00.000Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "mlpuroven2kapitola ",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "anglicke_listy_001.md",
+            "xhtml": "anglicke_listy_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_002.md",
+            "xhtml": "anglicke_listy_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_003.md",
+            "xhtml": "anglicke_listy_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_004.md",
+            "xhtml": "anglicke_listy_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_005.md",
+            "xhtml": "anglicke_listy_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_006.md",
+            "xhtml": "anglicke_listy_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_007.md",
+            "xhtml": "anglicke_listy_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_008.md",
+            "xhtml": "anglicke_listy_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_009.md",
+            "xhtml": "anglicke_listy_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_010.md",
+            "xhtml": "anglicke_listy_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_011.md",
+            "xhtml": "anglicke_listy_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_012.md",
+            "xhtml": "anglicke_listy_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_013.md",
+            "xhtml": "anglicke_listy_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_014.md",
+            "xhtml": "anglicke_listy_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_015.md",
+            "xhtml": "anglicke_listy_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_016.md",
+            "xhtml": "anglicke_listy_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "anglicke_listy_017.md",
+            "xhtml": "anglicke_listy_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Anglické listy",
+      "identifier": "6a690f3c-9d07-42c2-8610-572e5f3d7fa2",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-12-04T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_001.md",
+        "xhtml": "anglicke_listy_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_002.md",
+        "xhtml": "anglicke_listy_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_003.md",
+        "xhtml": "anglicke_listy_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_004.md",
+        "xhtml": "anglicke_listy_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_005.md",
+        "xhtml": "anglicke_listy_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_006.md",
+        "xhtml": "anglicke_listy_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_007.md",
+        "xhtml": "anglicke_listy_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_008.md",
+        "xhtml": "anglicke_listy_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_009.md",
+        "xhtml": "anglicke_listy_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_010.md",
+        "xhtml": "anglicke_listy_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_011.md",
+        "xhtml": "anglicke_listy_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_012.md",
+        "xhtml": "anglicke_listy_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_013.md",
+        "xhtml": "anglicke_listy_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_014.md",
+        "xhtml": "anglicke_listy_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_015.md",
+        "xhtml": "anglicke_listy_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_016.md",
+        "xhtml": "anglicke_listy_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "anglicke_listy_017.md",
+        "xhtml": "anglicke_listy_017.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/01.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/02.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/03.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/04.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/05.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/06.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/07.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/08.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/09.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/10.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/11.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/12.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/13.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/14.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/15.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/16.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/17.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/18.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/19.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/20.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/21.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/22.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/23.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/24.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/25.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/26.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/27.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/28.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/29.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/30.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/31.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/32.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/33.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/34.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/35.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/36.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/37.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/38.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/39.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/40.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/41.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/42.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/43.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/44.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/45.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/46.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/47.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/48.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/49.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/50.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/51.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/52.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/53.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/54.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/55.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/56.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/57.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/58.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/59.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/60.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/61.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/62.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/63.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/64.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/65.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/66.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/67.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/68.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/69.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/70.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/71.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/72.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/73.JPG"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/74.JPG"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre100",
+      "calibre101",
+      "calibre13",
+      "calibre18",
+      "calibre23",
+      "calibre25",
+      "calibre26",
+      "calibre28",
+      "calibre3",
+      "calibre36",
+      "calibre37",
+      "calibre41",
+      "calibre42",
+      "calibre43",
+      "calibre5",
+      "calibre57",
+      "calibre58",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "calibre94",
+      "calibre95",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpobrazky1",
+      "mlpobsah",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpuroven3nadpis",
+      "mlpuroven4nadpis",
+      "mlpverse",
+      "mlpznakkurziva11b",
+      "mlpznaktucnakurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "capek-anglicke-listy"
+    },
+    "generatedAt": 1648209433895
+  }
+}
