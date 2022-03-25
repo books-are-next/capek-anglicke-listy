@@ -1,0 +1,610 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Anglické listy",
+    "identifier": "6a690f3c-9d07-42c2-8610-572e5f3d7fa2",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-12-04T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anglicke_listy_017.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/01.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/02.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/03.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/04.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/05.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/06.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/07.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/08.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/09.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/10.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/11.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/12.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/13.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/14.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/15.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/16.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/17.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/18.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/19.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/20.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/21.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/22.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/23.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/24.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/25.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/26.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/27.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/28.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/29.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/30.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/31.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/32.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/33.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/34.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/35.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/36.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/37.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/38.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/39.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/40.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/41.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/42.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/43.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/44.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/45.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/46.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/47.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/48.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/49.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/50.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/51.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/52.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/53.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/54.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/55.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/56.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/57.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/58.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/59.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/60.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/61.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/62.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/63.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/64.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/65.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/66.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/67.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/68.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/69.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/70.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/71.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/72.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/73.JPG"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/74.JPG"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/anglicke_listy_005.html"
+    },
+    {
+      "title": "Anglie",
+      "children": [
+        {
+          "title": "První dojmy",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_1"
+        },
+        {
+          "title": "Anglický park",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_2"
+        },
+        {
+          "title": "Londýnské ulice",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_3"
+        },
+        {
+          "title": "Traffic",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_4"
+        },
+        {
+          "title": "Hyde Park",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_5"
+        },
+        {
+          "title": "V Natural History Museum",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_6"
+        },
+        {
+          "title": "Poutník probírá další muzea",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_7"
+        },
+        {
+          "title": "Poutník vidí zvířata a slavné lidi",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_8"
+        },
+        {
+          "title": "Clubs",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_9"
+        },
+        {
+          "title": "Největší vzorkový veletrh čili British Empire Exhibition",
+          "children": [
+            {
+              "title": "I.",
+              "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_11"
+            },
+            {
+              "title": "II.",
+              "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_12"
+            }
+          ],
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_10"
+        },
+        {
+          "title": "East End",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_13"
+        },
+        {
+          "title": "Country",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_14"
+        },
+        {
+          "title": "Cambridge a Oxford",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_15"
+        },
+        {
+          "title": "Poutník navštěvuje katedrály",
+          "href": "OEBPS/Text/anglicke_listy_006.html#sigil_toc_id_16"
+        }
+      ],
+      "href": "OEBPS/Text/anglicke_listy_006.html"
+    },
+    {
+      "title": "Cesta do Skotska",
+      "children": [
+        {
+          "title": "Edinburgh",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_17"
+        },
+        {
+          "title": "Loch Tay",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_18"
+        },
+        {
+          "title": "„Binnorie, o Binnorie“",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_19"
+        },
+        {
+          "title": "Terra Hyperborea",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_20"
+        },
+        {
+          "title": "„But I Am Annie Of Lochroyan“",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_21"
+        },
+        {
+          "title": "Jezerní oblast",
+          "href": "OEBPS/Text/anglicke_listy_007.html#sigil_toc_id_22"
+        }
+      ],
+      "href": "OEBPS/Text/anglicke_listy_007.html"
+    },
+    {
+      "title": "Severní Wales",
+      "href": "OEBPS/Text/anglicke_listy_008.html"
+    },
+    {
+      "title": "Listy o Irsku",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/anglicke_listy_009.html#sigil_toc_id_23"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/anglicke_listy_009.html#sigil_toc_id_24"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/anglicke_listy_009.html#sigil_toc_id_25"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/anglicke_listy_009.html#sigil_toc_id_26"
+        },
+        {
+          "title": "V.",
+          "href": "OEBPS/Text/anglicke_listy_009.html#sigil_toc_id_27"
+        }
+      ],
+      "href": "OEBPS/Text/anglicke_listy_009.html"
+    },
+    {
+      "title": "Zase v Anglii",
+      "children": [
+        {
+          "title": "Dartmoor",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_28"
+        },
+        {
+          "title": "Přístavy",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_29"
+        },
+        {
+          "title": "Merry Old England",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_30"
+        },
+        {
+          "title": "Poutník si všímá lidí",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_31"
+        },
+        {
+          "title": "Několik tváří",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_32"
+        },
+        {
+          "title": "Útěk",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_33"
+        },
+        {
+          "title": "Na lodi",
+          "href": "OEBPS/Text/anglicke_listy_010.html#sigil_toc_id_34"
+        }
+      ],
+      "href": "OEBPS/Text/anglicke_listy_010.html"
+    },
+    {
+      "title": "Vy Angličané (K anketě Daily Heraldu)",
+      "href": "OEBPS/Text/anglicke_listy_011.html"
+    },
+    {
+      "title": "Řeč do britského rozhlasu",
+      "href": "OEBPS/Text/anglicke_listy_012.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/anglicke_listy_013.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/anglicke_listy_014.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/anglicke_listy_015.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/anglicke_listy_016.html"
+    }
+  ]
+}
