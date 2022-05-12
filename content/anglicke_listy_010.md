@@ -1,7 +1,5 @@
 ---
-title: |-
-  Zase
-  v Anglii
+title: Zase v Anglii
 contentType: prose
 ---
 

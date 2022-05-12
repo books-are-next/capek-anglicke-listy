@@ -1,7 +1,5 @@
 ---
-title: |-
-  Severní
-  Wales
+title: Severní Wales
 contentType: prose
 ---
 

@@ -13,7 +13,7 @@ meta:
   modified: '2017-12-04T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - anglicke_listy_002.html
+  - promo.html
   - anglicke_listy_005.html
   - anglicke_listy_006.html
   - anglicke_listy_007.html
