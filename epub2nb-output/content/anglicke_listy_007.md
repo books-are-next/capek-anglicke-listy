@@ -1,7 +1,5 @@
 ---
-title: |-
-  Cesta
-  do Skotska
+title: Cesta do Skotska
 contentType: prose
 ---
 

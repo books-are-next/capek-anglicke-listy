@@ -1,7 +1,5 @@
 ---
-title: |-
-  Řeč
-  do britského rozhlasu
+title: Řeč do britského rozhlasu
 contentType: prose
 ---
 

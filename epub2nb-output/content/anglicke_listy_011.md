@@ -1,8 +1,5 @@
 ---
-title: |-
-  Vy
-  Angličané
-  (K anketě Daily Heraldu)
+title: Vy Angličané (K anketě Daily Heraldu)
 contentType: prose
 ---
 

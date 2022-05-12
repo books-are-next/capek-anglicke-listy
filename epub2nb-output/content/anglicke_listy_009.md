@@ -1,7 +1,5 @@
 ---
-title: |-
-  Listy
-  o Irsku
+title: Listy o Irsku
 contentType: prose
 ---
 

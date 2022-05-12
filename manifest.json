@@ -1,21 +1,38 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "identifier": "capek-anglicke-listy-3eac64d",
-  "languagecode": "cs",
-  "modified": "2017-12-04T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Anglické listy",
-  "revision": "3eac64d",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-anglicke-listy-488580d",
+  "revision": "488580d",
+  "readingOrder": [
+    "promo.html",
+    "anglicke_listy_005.html",
+    "anglicke_listy_006.html",
+    "anglicke_listy_007.html",
+    "anglicke_listy_008.html",
+    "anglicke_listy_009.html",
+    "anglicke_listy_010.html",
+    "anglicke_listy_011.html",
+    "anglicke_listy_012.html",
+    "anglicke_listy_013.html",
+    "anglicke_listy_014.html",
+    "anglicke_listy_015.html",
+    "anglicke_listy_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Mar 25 2022 12:17:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648210672625
+    "date": "Thu May 12 2022 10:40:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352047342
   },
   "documents": [
     {
-      "title": "Anglické listy",
-      "file": "anglicke_listy_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +40,17 @@
       "order": 0,
       "prev": null,
       "next": "anglicke_listy_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Anglické listy",
+      "title": "Předmluva",
       "file": "anglicke_listy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "anglicke_listy_002.html",
+      "prev": "promo.html",
       "next": "anglicke_listy_006.html",
       "toc": [
         {
@@ -54,7 +63,7 @@
       ]
     },
     {
-      "title": "Anglie • Anglické listy",
+      "title": "Anglie",
       "file": "anglicke_listy_006.html",
       "words": 9307,
       "chars": 56486,
@@ -74,11 +83,11 @@
       ]
     },
     {
-      "title": "Cesta\ndo Skotska • Anglické listy",
+      "title": "Cesta do Skotska",
       "file": "anglicke_listy_007.html",
       "words": 3505,
-      "chars": 20640,
-      "ideas": 74,
+      "chars": 20641,
+      "ideas": 73,
       "role": "chapter",
       "order": 3,
       "prev": "anglicke_listy_006.html",
@@ -87,18 +96,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Cesta\ndo Skotska",
+          "name": "Cesta do Skotska",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Severní\nWales • Anglické listy",
+      "title": "Severní Wales",
       "file": "anglicke_listy_008.html",
       "words": 489,
-      "chars": 2873,
-      "ideas": 10,
+      "chars": 2874,
+      "ideas": 9,
       "role": "chapter",
       "order": 4,
       "prev": "anglicke_listy_007.html",
@@ -107,18 +116,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Severní\nWales",
+          "name": "Severní Wales",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Listy\no Irsku • Anglické listy",
+      "title": "Listy o Irsku",
       "file": "anglicke_listy_009.html",
       "words": 348,
-      "chars": 1926,
-      "ideas": 25,
+      "chars": 1927,
+      "ideas": 24,
       "role": "chapter",
       "order": 5,
       "prev": "anglicke_listy_008.html",
@@ -127,18 +136,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Listy\no Irsku",
+          "name": "Listy o Irsku",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zase\nv Anglii • Anglické listy",
+      "title": "Zase v Anglii",
       "file": "anglicke_listy_010.html",
       "words": 3550,
-      "chars": 21509,
-      "ideas": 72,
+      "chars": 21510,
+      "ideas": 71,
       "role": "chapter",
       "order": 6,
       "prev": "anglicke_listy_009.html",
@@ -147,18 +156,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zase\nv Anglii",
+          "name": "Zase v Anglii",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vy\nAngličané\n(K anketě Daily Heraldu) • Anglické listy",
+      "title": "Vy Angličané (K anketě Daily Heraldu)",
       "file": "anglicke_listy_011.html",
       "words": 890,
-      "chars": 5524,
-      "ideas": 8,
+      "chars": 5526,
+      "ideas": 6,
       "role": "chapter",
       "order": 7,
       "prev": "anglicke_listy_010.html",
@@ -167,18 +176,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vy\nAngličané\n(K anketě Daily Heraldu)",
+          "name": "Vy Angličané (K anketě Daily Heraldu)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Řeč\ndo britského rozhlasu • Anglické listy",
+      "title": "Řeč do britského rozhlasu",
       "file": "anglicke_listy_012.html",
       "words": 2030,
-      "chars": 12459,
-      "ideas": 22,
+      "chars": 12460,
+      "ideas": 21,
       "role": "chapter",
       "order": 8,
       "prev": "anglicke_listy_011.html",
@@ -187,14 +196,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Řeč\ndo britského rozhlasu",
+          "name": "Řeč do britského rozhlasu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka • Anglické listy",
+      "title": "Ediční poznámka",
       "file": "anglicke_listy_013.html",
       "words": 77,
       "chars": 606,
@@ -214,11 +223,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Anglické listy",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "anglicke_listy_014.html",
       "words": 294,
-      "chars": 2025,
-      "ideas": 33,
+      "chars": 2027,
+      "ideas": 31,
       "role": "chapter",
       "order": 10,
       "prev": "anglicke_listy_013.html",
@@ -227,14 +236,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Anglické listy",
+      "title": "První vydání knih Karla Čapka",
       "file": "anglicke_listy_015.html",
       "words": 233,
       "chars": 1155,
@@ -254,7 +263,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Anglické listy",
+      "title": "Poznámky pod čarou",
       "file": "anglicke_listy_016.html",
       "words": 125,
       "chars": 781,
@@ -274,11 +283,11 @@
       ]
     },
     {
-      "title": "Tiráž • Anglické listy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 896,
-      "ideas": 23,
+      "words": 105,
+      "chars": 707,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "anglicke_listy_016.html",
@@ -296,14 +305,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21128,
-      "chars": 127839,
-      "ideas": 474
+      "words": 21099,
+      "chars": 127659,
+      "ideas": 456
     },
     "chapters": {
       "words": 20989,
-      "chars": 126915,
-      "ideas": 448
+      "chars": 126924,
+      "ideas": 439
     }
   }
 }
