@@ -3,9 +3,13 @@ title: Listy o Irsku
 contentType: prose
 ---
 
+<section>
+
 #### I.
 
-  
+</section>
+
+<section>
 
 Chtěl jsem vlastně psáti listy z Irska; dokonce tam nemám dále než mizerných několik hodin; proč tam nejedu, není ani mně zcela jasno. Myslím, že je tím vinna irská otázka.
 
@@ -19,7 +23,9 @@ Položil jsem irskou otázku skoro všem Angličanům, Skotům, Kymrům i Galům
 
 #### II.
 
-  
+</section>
+
+<section>
 
 Otázka: Já bych se rád podíval do Irska. Co tomu říkáte?
 
@@ -39,13 +45,17 @@ Odpověď (poněkud nejistě): Ne, každý ne. Víte co? Jeďte do Belfastu. Tam
 
 #### III.
 
-  
+</section>
+
+<section>
 
 Mr. Shaw pak radil jen jediné místo v Irsku; je to malý ostrůvek na jihu, jehož jméno jsem zapomněl. Tam prý je lid velmi zachovalý; bohužel, dodal Mr. Shaw, na řečeném ostrůvku není možno přistát.
 
 #### IV.
 
-  
+</section>
+
+<section>
 
 Dobrá, podíváš se tam na vlastní pěst. Koupíš si nějakého průvodce po Irsku, vybereš si několik pěkných míst a budeš psát listy z Irska.
 
@@ -55,6 +65,10 @@ Od Glasgowa počínajíc běhám po všech knihkupcích a kupuji průvodce po Ir
 
 #### V.
 
-  
+</section>
+
+<section>
 
 Mizerných několik hodin mám odtud do Irska; ale řekněte, mám pro nic a za nic zahodit strašné tajemství, kterým je pro mne tato země obestřena? I budu se povždy s láskou a radostí dívat na mapu Irska: Hle, země, z níž jsem roušky nesňal.
+
+</section>

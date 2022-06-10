@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Punch – tehdejší humoristický časopis. _Pozn. red._
 
 [\[2\]](./resources/undefined) Damara – pryskyřice z damaroně nebo jiných asijských stromů. _Pozn. red._
@@ -26,3 +28,5 @@ contentType: prose
 [\[11\]](./resources/undefined) Smetanový vaječný krém. _Pozn. red._
 
 [\[12\]](./resources/undefined) Ostrovní. _Pozn. red._
+
+</section>

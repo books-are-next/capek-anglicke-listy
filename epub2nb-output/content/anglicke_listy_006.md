@@ -3,9 +3,13 @@ title: Anglie
 contentType: prose
 ---
 
+<section>
+
 ### První dojmy
 
-  
+</section>
+
+<section>
 
 „Musí se začínat od začátku,“ radil mi kdysi mistr Chauliac; ale jelikož jsem už deset dní na tomto babylonském ostrově, ztratil se mi začátek. Čím mám nyní začít? Opečeným špekem nebo výstavou ve Wembley? Panem Shawem nebo londýnskými strážníky? Vidím, že začínám velmi zmateně; ale co se týče těch strážníků, musím říci, že jsou rekrutováni podle krásy a velikosti; jsou jako bohové, o hlavu větší než lidé smrtelní, a jejich moc je neomezená; když takový dvoumetrový Bob na Piccadilly zvedne ruku, zastaví se všechny vehikly, utkví Saturn a Uran stane na své nebeské dráze čekaje, až Bob tu ruku spustí. Nikdy jsem neviděl něco tak nadlidského.
 
@@ -27,7 +31,9 @@ Chvála Bohu, že jsem neměl padesát stejných snů jeden za druhým. Buďte n
 
 ### Anglický park
 
-  
+</section>
+
+<section>
 
 Stromy jsou snad to nejkrásnější v Anglii. Také ovšem louky a strážníci, ale hlavně stromy, krásně plecité, staré, rozložité, volné, ctihodné a převeliké stromy. Stromy v Hampton Courtu, Richmond Parku, Windsoru a já nevím kde ještě. Možná že ty stromy mají velký vliv na torysmus v Anglii. Myslím, že udržují aristokratické pudy, historismus, konzervativnost, celní ochranu, golf, dům lordů a jiné zvláštní a staré věci. Byl bych asi náruživým labouristou, kdybych bydlil v ulici Železných Balkonů nebo v ulici Šedivých Cihel; ale sedě pod dubem křemelákem v Hampton Parku pocítil jsem v sobě povážlivou náklonnost uznávat hodnotu starých věcí, vyšší poslání starých stromů, harmonickou košatost tradice a jakousi úctu ke všemu, co je dosti silné, aby se udrželo po věky.
 
@@ -41,7 +47,9 @@ O tom všem jsem přemítal pod dubem v Hampton Parku, ale posléze i staré ko�
 
 ### Londýnské ulice
 
-  
+</section>
+
+<section>
 
 Pokud se pak týče Londýna samotného, páchne povšechně benzínem, spálenou trávou a lojem, na rozdíl od Paříže, kde k tomu přistupuje zápach pudru, kávy a sýra. V Praze páchne každá ulice jinak; po této stránce není nad Prahu. Složitější je to s hlasy Londýna: tam uvnitř, na Strandu nebo na Piccadilly, to vám je, lidi, jako přádelna s tisíci vřeteny; to to drnčí, rachotí, přede, bublá, sviští a hrčí tisíci nacpanými motory, busy, auty a parními mašinami; a vy sedíte na střeše busu, který nemůže dál a drnčí naprázdno, protřásáte se jeho rachotem a poskakujete na místě jako divná vycpaná loutka. Pak jsou postranní ulice, gardens, squares, roads a groves a crescents až po tu mizernou ulici v Notting Hillu, kde toto píši: všeliké ulice Dvou Sloupů, ulice Stejných Mříží, ulice Sedmi Schůdků Před Každým Domkem a tak dále; nuže, zde jakési zoufalé variace na „i “ ohlašují prodavače mléka, bědující „jejej“ znamená prostě třísky na zatápění, „uó“ je válečný křik uhlíře, a příšerný řev delirantního námořníka zvěstuje, že nějaký chlapík veze na prodej pět hlávek kapusty v dětském kočárku. A v noci se tu milují kočky stejně divoce jako na střechách Palerma, přes všechny pověsti o anglickém puritánství. Jen lidé jsou tady tišší než jinde; mluví spolu jen na půl huby a koukají, aby už byli doma. A to je to nejpodivnější na anglických ulicích: tady neuvidíte ctihodné dámy povídat si na rohu o tom, co se stalo u Smithů nebo Greenů, ani somnambulně putovat milence čtyřručně se vedoucí, ani sedět na zápraží počestné občany s rukama na kolenou (mimochodem: tady jsem ještě neviděl truhláře, ani zámečníka, ani dílny, ani tovaryše, ani učně; tady jsou jen krámy, samé krámy, samá Westminster Bank a Midland Bank Ltd.), ani muže pijící na ulici, ani lavičky na rynku, ani zevlouny, ani povalovače, ani služky, ani penzisty, zkrátka nic, nic, nic; londýnská ulice je jen takové koryto, kterým život teče, aby už byl doma. Na ulicích se nežije, nekouká, nemluví, nestojí ani nesedí; ulicemi se jenom probíhá. Tady ulice není ten nejzajímavější lokál, kde vás potká tisícerá podívaná a promluví k vám tisíc dobrodružství; lokál, kde lidé pískají nebo se perou, hlučí, koketují, odpočívají, básní nebo filozofují, chodí na stranu a užívají života a dělají vtipy nebo politiku a shlukují se ve dvojice, v trojice, v rodiny, v zástupy nebo v revoluce. U nás, v Itálii, ve Francii je ulice jakási velká hospoda nebo veřejný sad, náves, shromaždiště, hřiště a divadlo, rozšířený domov a zápraží; tady je něčím, co nepatří nikomu a nikoho nesbližuje s ostatními; tady nepotkáváte lidi a věci, zde je jenom míjíte.
 
@@ -55,7 +63,9 @@ Abych nezapomněl: Ovšemže jsem se byl podívat na Baker Street, a vrátil jse
 
 ### Traffic
 
-  
+</section>
+
+<section>
 
 Ale jakživ se nesmířím s tím, čemu se tady říká „traffic“, totiž s frekvencí na ulicích. Vzpomínám s hrůzou na den, kdy mne poprvé dovezli do Londýna. Nejdřív mne vezli vlakem, pak běželi nějakými nesmírnými zasklenými halami a strčili mne do mřížové klece, jež vypadá jako dobytčí váha; to je lift, a jelo to dolů ošklivou pancéřovou studní, načež mne vytáhli a prchali křivolakými podzemními chodbami; bylo to jako hrozný sen. Pak tam byl takový tunel nebo kanál s kolejemi, a tam přiletěl bručící vlak; hodili mne do něho a vlak letěl dál, a bylo tam těžké a plesnivé dusno, patrně z blízkosti pekla; načež mne znovu vyndali a běželi novými katakombami až k pohyblivým schodům, jež rachotí jako mlýn a ženou se do výše i s lidmi; říkám vám, je to jako horečka. Pak ještě několik chodeb a schodišť, a přes můj odpor mne vyvedli na ulici, kde mi kleslo srdce. Bez konce a přerušení se sune čtyřnásobný pás vehiklů: busy, supající mastodonti řítící se ve stádech s hejny lidiček na zádech; předoucí auta, náklady, parní mašiny, cyklisti, busy, busy, letící smečka aut, běžící lidé, traktory, ambulance, lidé šplhající jako veverky na střechy busů, nové stádo motorových slonů, tak, a teď to všechno stojí, mručící a drnčící příval, a nemůže to dál; ale ani já nemohu dál, vzpomínaje na hrůzu, kterou tehdy ve mně vzbudila představa, že musím přeběhnout na druhou stranu ulice. Podařilo se to s jistým úspěchem, a od té doby jsem bezpočtukrát překřižoval londýnské ulice; ale jakživ se s nimi nesmířím.
 
@@ -69,7 +79,9 @@ Zatím jsem mimo jiné rozluštil, že divý křik „o-ej-ó “ na ulici zname
 
 ### Hyde Park
 
-  
+</section>
+
+<section>
 
 A když mně bylo nejsmutněji v zemi anglické – bylať anglická neděle zamořená nevýslovnou nudou –, pustil jsem se po Oxford Street; chtěl jsem jít prostě na východ, abych byl blíže vlasti, ale spletl jsem si směr a putoval jsem přímo k západu, pročež jsem se ocitl u Hyde Parku; říká se tam Marble Arch, protože je tam mramorová brána, která nikam nevede; nevím vlastně, proč tam stojí. Bylo mi jí poněkud líto, i šel jsem se na ni podívat; a při tom jsem to uviděl, a běžel jsem se tam kouknout, protože tam byly zástupy lidu. A když jsem pochopil, co se děje, bylo mi hnedle radostněji.
 
@@ -85,7 +97,9 @@ Za mříží v Hyde Parku se pásly ovce; a když jsem se na ně díval, jedna, 
 
 ### V Natural History Museum
 
-  
+</section>
+
+<section>
 
 „Byl jste v British Museum?“
 
@@ -109,7 +123,9 @@ Ach, jak málo výstřední, jak málo odvážná a přesná je poezie!
 
 ### Poutník probírá další muzea
 
-  
+</section>
+
+<section>
 
 Poklady celého světa shrnula bohatá Anglie ve svých sbírkách; sama nepříliš tvořivá, svezla metopy akropolské a egyptské kolosy z porfyru nebo žuly, reliéfní balvany asyrské, uzlovité plastiky starého Yucatánu, usměvavé Buddhy, řezbičky a laky japonské, výkvět umění z kontinentu a změť koloniálních památek: železná kování, tkaniny, skla, vázy, dózičky šňupáků, knižní vazby, sochy, obrazy, email, vykládané sekretáře, saracénské šavle a Bůh mi pomoz, já nevím co ještě; snad všecko, co na světě má nějakou cenu.
 
@@ -121,7 +137,9 @@ Hledáte-li v londýnských sbírkách řezby ze sloni či vyšívané pytlíky 
 
 ### Poutník vidí zvířata a slavné lidi
 
-  
+</section>
+
+<section>
 
 Hanbil bych se, kdybych nebyl v zoo a v Kew Gardens; neboť máš znáti všecko. I viděl jsem koupat se slony a pardály vyhřívat hebká břicha ve večerním slunci, nakoukl jsem do strašlivé huby hrochovy, podobné obrovským hovězím plicím, divil jsem se žirafám, jež se usmívají útle a rezervovaně jako stárnoucí slečny, koukal jsem, jak spí lev, jak se pojímají opice a orangutan si dává na hlavu koš jako my lidé klobouk; indický páv pro mne rozevřel ocas a točil se hrabaje vyzývavě pařátem, ryby v akváriu zářily duhovými barvami a nosorožec zdál se vězet v kůži, která byla šita na hovado ještě větší. Dost už, až dost jsem toho vypočítal; už nechci nic víc vidět.
 
@@ -137,7 +155,9 @@ Už nikdy nebudu posuzovat lidi podle tváří.
 
 ### Clubs
 
-  
+</section>
+
+<section>
 
 Jakpak to mám skromně říci? Nu ano, dostalo se mi té nezasloužené cti, že jsem byl uveden do některých z nejuzavřenějších klubů londýnských, což se každému pocestnému nestane; i pokusím se vylíčit, jak to tam vypadá. Jméno jednoho jsem zapomněl a nevím ani, ve které je ulici; ale vedli mne takovým středověkým průchodem, potom nalevo a napravo a ještě jinudy až k jednomu domu s dočista slepými okny, a pak dovnitř, bylo to jako kůlna, a odtud se šlo do sklepa a tam byl ten klub; byli tam boxeři a literáti a krásné dívky, dubové stoly a hliněná podlaha, místnost jako dlaň, díra fantastická a hrozná; myslel jsem, že mne tam zabijí, ale dali mi jíst na hliněných talířích a byli milí a hezcí; potom mne odvezl šampion jižní Afriky v běhu a skoku, a já podnes se pamatuji na hezkou dívku, která se tam ode mne učila česky.
 
@@ -156,7 +176,9 @@ Na toto místo by se hodilo rozjímání o společenském životě, mužském ř
 
 #### I.
 
-  
+</section>
+
+<section>
 
 Mám-li vám hned předem říci, čeho je nejvíc na výstavě ve Wembley, tedy rozhodně lidí; a školních výprav. Jsem sice přítelem populace, pohlavního rozmnožování, dětí, škol a názorné výchovy, ale přiznám se, že chvílemi jsem si přál mít s sebou strojní pušku, abych si proklestil cestu splašeným, tlačícím se, běžícím, dupajícím stádem kluků s kulatými čepičkami na kokosech nebo řetězem holek, jež se drží za ruce, aby se neztratily. Časem se mi s nekonečnou trpělivostí povedlo dostat se až ke stánku; prodávala se tam novozélandská jablka nebo tam byla vystavena rýžová košťata z Austrálie či kulečník vyrobený na Bermudách; poštěstilo se mi dokonce spatřit sochu prince z Walesu udělanou z kanadského másla, což mne naplnilo lítostí, proč většina londýnských pomníků není také vyrobena z másla. Načež opět jsem byl posunován proudem lidí, oddávaje se výhledu na krk tlustého gentlemana nebo na ucho staré dámy přede mnou. Ostatně jsem nic nenamítal; co lidí by se tlačilo, kdyby v oddělení australských chladíren byly vystaveny ruměné krky tlustých gentlemanů nebo v hliněném paláci Nigérie koše se sušenýma ušima starých dam.
 
@@ -170,7 +192,9 @@ Odnes mne domů, Letící Skote, skvělá stopadesátitunová lokomotivo, přene
 
 #### II.
 
-  
+</section>
+
+<section>
 
 Kromě strojů předvádí výstava ve Wembley dvojí podívanou: suroviny a produkty. Suroviny jsou obyčejně krásnější a zajímavější. Cihla čistého cínu má něco dokonalejšího než rytá a tepaná cínová mísa; ryšavé nebo ohnivě šedé dříví někde z Guayany nebo Sarawaku je rozhodně poutavější než hotový biliár a slizce průsvitná surová guma z Ceylonu či Malajska je vlastně daleko krásnější a tajuplnější než gumové koberce nebo gumový biftek; a to vám ještě nepopisuji všeliké africké zrní, ořechy bůhví odkud, bobule, semena, jádra, plody, pecky, šáchory, klasy, makovice, hlízy, lusky, dřeně a vlákna a kořeny a listí, věci sušené, moučné, olejnaté a lupenité ve všech barvách a hmatatelných jakostech, jejichž jména, většinou velmi krásná, jsem zapomněl a jichž užití je mi poněkud záhadné; myslím, že se tím posléze mažou stroje, imituje mouka nebo mastí podezřelé tarts v Lyonsových požíracích velkoústavech. Z těch žhavých, žíhaných, brunátných, temných a kovově znějících dřev se ovšem dělá staroanglický nábytek, a nikoliv negerské modly, ani chrámy, ani trůny černých či hnědých králů. Nanejvýš ještě lýkové koše či pytle, ve kterých sem bylo svezeno toto bohatství obchodních artiklů Britského impéria, povídají něco o negerské nebo malajské ruce, která se do nich vepsala svým podivným a pěkným technickým rukopisem. Vše ostatní je evropský produkt. Ale abych nelhal: ne všechno ostatní. Je několik uznaných exotických průmyslů, jako například indická velkovýroba Buddhů, čínské vějíře, kašmírské šály nebo damascenské meče, ve kterých si Evropané libují. A tedy se vyrábějí ve velkém sedící Sakiamunové, anilínové laky, exportní čínský porculán, sloni ze slonoviny a kalamáře z hadince nebo mastku, ryté mísy, perleťové hlouposti a jiné zaručeně pravé exotické výrobky. Není už lidového domorodého umění; černoch v Beninu vyřezává ze sloních klů figurky, jako by vychodil mnichovskou akademii, a dáte-li mu kus dřeva, vyřeže z něho klubovku. Inu Bože, patrně přestal být divochem a stal se – čím vlastně? ano, stal se zaměstnancem civilizovaného průmyslu.
 
@@ -184,7 +208,9 @@ Neboť já, hloupá duše, jsem si je představovala jinak.
 
 ### East End
 
-  
+</section>
+
+<section>
 
 Začíná se to nedaleko za středem světa, za Anglickou bankou, Burzou a džunglí ostatních bank a směnáren; toto Zlaté pobřeží je téměř omýváno černými vlnami Východního Londýna. „Nechoďte tam bez průvodce,“ říkali mi domorodci z West Endu, „a neberte s sebou mnoho peněz.“ Nuže, je to rozhodně přehnáno; podle mého vkusu je Piccadilly nebo Fleet Street horší divočina než Psí Ostrov nebo zlopověstný Limehouse i s Čínským Městem a než celý Poplar se vším všudy, s židy, s plavci i s bídným Rotherhithe na druhé straně řeky. Nestalo se mi nic, vrátil jsem se jen hodně smuten, ač jsem obstál na razii v Košířích i v přístavních ohavnostech Marseille či Palerma. Pravda, jsou to velmi ošklivé ulice z blátivých cihel, se spoustou dětí na dlažbě, divnými čínskými typy, jež běhají jako stíny po obchodech ještě divnějších, opilými námořníky, dobročinnými azyly, krvavými výrostky a přiškvařeným, hadrovým zápachem; ale viděl jsem horší místa, bídu řvoucí, špinavou a zanícenou jako vřed, nevýslovné zápachy a doupata hroznější než vlčí pelech. Ale to není to, to není to. Strašné ve Východním Londýně není to, co lze vidět a čichat, ale to, že toho je tak nesmírně a nevykupitelně mnoho. Jinde je chudoba a ošklivost jen jako smetiště mezi dvěma domy, jako ohavný kout, píštěl či nečistý odpadek; ale tady jsou míle a míle černých domků, beznadějných ulic, židovských krámů, nadpočetných dětí, kořalen a křesťanských azylů. Míle a míle, od Peckhamu po Hackney, od Walworthu po Barking: Bermondsey, Rotherhithe, Poplar, Bromley, Stepney Bow a Bethnal Green, čtvrti dělníků, židů, cockneyů a nakladačů z doků, lidí chudých i ztracených – vše stejně nijaké, černé, holé a nekonečné, proryté nečistými kanály hlučné komunikace a napořád stejně bezútěšné. A na jihu, na severozápadě, na severovýchodě zase totéž, míle a míle černých domků, kde celá ulice je jen nesmírný horizontální činžák, továrny, plynojemy, trati, hlinité občiny, sklady hmot a sklady lidí, bez konce a bez naděje. Jsou jistě ohavnější čtvrti a bídnější ulice ve všech dílech světa; i bída má zde vyšší úroveň, a nejchudší žebrák nevězí ještě v hadrech; ale můj Bože, co lidí, jaké miliony lidí žijí v této větší polovině Londýna, v těchto krátkých, uniformních, neradostných ulicích, jež se hemží na plánu Londýna jako červi v nesmírné mršině!
 
@@ -196,7 +222,9 @@ Snad by vás někdo znalejší zavedl na místa malebnější, kde i špína je 
 
 ### Country
 
-  
+</section>
+
+<section>
 
 Nuže, sedni na vlak a ujížděj některým směrem, zpívaje si do rachotu kol „kudy ven, kudy ven“. I defilují ulice Velkého Počtu, bubny plynáren, křižovatky kolejí, továrny, hřbitovy; nyní vpadají pásy zeleně do nekonečného města, vidíš poslední stanice tramvají, tichá předměstí, zelenou trávu a první ovečky skloněné k zemi ve věčném přírodním obřadu žraní. A pak ještě půl hodiny, a jsi venku z největšího města na světě; vystoupíš na některé staničce, kde tě čekají pohostinní lidé, a jsi v anglické country.
 
@@ -214,7 +242,9 @@ Putoval jsem jako víla po trávnících v Essexu, lezl přes plot do panského 
 
 ### Cambridge a Oxford
 
-  
+</section>
+
+<section>
 
 Nejdříve má člověk dojem provinciálního města; a náhle, propána, čí je tenhle starý zámek? To je studentská kolej s třemi dvory, vlastní kaplí, královskou síní, kde jedí studenti, parkem, hřišti a já nevím čím ještě. A tady je druhá, ještě větší, se čtyřmi dvory, parkem za řekou, vlastní katedrálou, ještě větší gotickou jídelnou, pětisetletým trámovím, galerií starých portrétů, ještě staršími tradicemi a ještě slavnějšími jmény. Třetí pak je nejstarší, čtvrtá se vyznamenává vědami, pátá atletickými rekordy, šestá nejpěknější kaplí, sedmá nevím už čím, a protože jich je přinejmenším patnáct, spletl jsem si je všechny; vidím jen hradovité paláce perpendikulárního slohu[\[3\]](./resources/undefined), ohromná nádvoří, kde běhají páni žáci v černých talárech a čtverhranných baretech s třapečkem, z nichž každý má své dva nebo tři pokoje v těchto zámeckých křídlech; vidím gotické kaple vykuchané protestantismem, hodovní síně s estrádou pro masters a fellows, ctihodné uzené portréty earlů, státníků a poetů, kteří odtud vyšli, vidím proslulé backs, totiž zadky kolejí nad říčkou Cam, přes niž jsou hozeny mosty do staletých kolejních parků; pluji po něžné říčce mezi backs a parky a myslím na naše studenty, na jejich hubená břicha a boty prošoupané běháním po přednáškách. Klaním se ti po pás, Cambridgi, neboť dostalo se mi cti jíst na estrádě mezi učenými masters v síni tak ohromné a staré, že mi bylo, jako by se mi to jen zdálo; zdravím tě oběma rukama, Cambridgi, neboť dostalo se mi radosti jíst se studenty, masters a jinou mládeží z hliněných hrníčků v Půlměsíci; a bylo mi dobře mezi nimi.
 
@@ -236,7 +266,9 @@ Co mám nyní říci špatného o Oxfordě? Nemohu chválit Oxford, chvále Camb
 
 ### Poutník navštěvuje katedrály
 
-  
+</section>
+
+<section>
 
 Katedrálová města jsou malá města s velkými katedrálami, ve kterých se konají nesmírně dlouhé bohoslužby; i přijde kostelník a nařídí turistovi, aby nekoukal na strop a pilíře, nýbrž sedl si do lavice a poslouchal, co tam v chóru odzpěvují. Tento zvyk mají kostelníci v Ely, Lincolnu, Yorku a Durhamu; nevím, co dělají jinde, neboť jinde jsem nebyl. Slyšel jsem ohromné množství litanií, žalmů, anthem[\[4\]](./resources/undefined) a písní a všiml jsem si, že anglické katedrály mají obyčejně dřevěné stropy, následkem čehož není u nich vyvinut opěrný systém kontinentální gotiky; že perpendikulární pilíře v Anglii mají vzhled složitého potrubí; že protestantští kostelníci jsou tvrdší než katoličtí a potrpí si stejně na spropitné jako kostelníci italští, jenže jsouce gentlemany – musejí dostat větší; že reformace vykonala velmi prasácké dílo, když zurážela hlavy soch a odstranila z kostelů obrazy a jiné pohanské modlářství. Následkem toho jsou anglické katedrály holé a divné, jako by se do nich nikdo nenastěhoval. A ještě horší je, že uprostřed hlavní lodi je uzavřený chór pro kněze, ministranty a elitu farnosti; ostatní lid sedí dole a nevidí nic než víceméně vyřezávané stěny chóru a zadek varhan; hlavní loď je tím důkladně porušena, celkový prostor je rozříznut vedví; jakživ jsem neviděl něco tak absurdního. Ale protože tam v chóru ještě pořád něco zpívají, je nutno se sebrat a jít ven.
 
@@ -257,3 +289,5 @@ Katedrála v Durhamu je prastará a strmí na vysoké skále; uvnitř se konají
 Tedy anglická chrámová architektura je úhrnem méně malebná i méně plastická než kontinentální. Když se jednou přednormanským Britům povedlo postavit náramné chrámové lodi s dřevěným stropem, zůstali na tom i v gotice, patrně z pravěké konzervativnosti; i jsou jejich kostely převeliké síně s širokými okny, bez klenby a žebroví, bez mocně vysunutého systému opěrných pilířů, oblouků, fiál a celé té plastické frenezie; a mají dvě čtyřhranné věže v portále a jednu nad zkřížením, sochy vymetené reformací a chudou sochařskou výzdobu, vnitřní prostor pokažený chórem a varhanami a celkový dojem silně otřesený přítomností kostelníků.
 
 Avšak ještě slovíčko o vás, malé kostýlky bez chórů a kostelníků, holé a chladné síňky Boží s dubovým stropem, hřbitovním trávníkem dokola a čtyřhrannou věží mezi stromy, jež je tak typická pro anglický venkov jako báně cibulky pro náš venkov; věže, jež odbíjíte hodiny věčně stejným církevním nápěvem nad věčně stejnými náhrobky nebožtíků.
+
+</section>
