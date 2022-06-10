@@ -3,7 +3,7 @@ title: Vy Angličané (K anketě Daily Heraldu)
 contentType: prose
 ---
 
-  
+<section>
 
 Za svých mladších let jsem znal jenom dva typy Angličanů: jeden se jmenoval John Bull, byl tlustý a brunátný, nosil holínky a jezdecké kalhoty a obyčejně byl provázen buldokem; druhý se jmenoval Mr. Smith nebo nějak podobně, byl dlouhý a kostnatý, nosil kostkované šaty a zrzavé licousy a vyznačoval se tím, že za každé příležitosti kladl nohy na stůl. Oba se vyskytovali hlavně v karikaturách a ve veselohrách.
 
@@ -14,3 +14,5 @@ Dostalo se mi lichotivého pozvání, abych řekl Angličanům do očí otevřen
 Pokud jsou Angličané ostrovany v Anglii, je to jejich věc; poněkud horší je, že jsou ostrovany, ať se octnou kdekoliv ve světě. Viděl jsem britské ostrovy a ostrůvky ve Francii a ve Španělsku, v Itálii i u nás. Tento národ mořeplavců, cestovatelů a kolonistů nedovede vykročit z Anglie; veze ji s sebou, ať jede na rovník nebo na severní pól. Nikdy se nedovede přiblížit k jiným národům a k jejich životu. Je kosmopolitou potud, pokud v tomto vesmíru jsou anglicky mluvící sklepníci, anglické golf-grounds, anglická snídaně a pokud možno anglická společnost. Udržuje se skoro úzkostlivě stranou, žije-li uprostřed jiného národa; okukuje sice jeho obrazy a architekturu a vylézá na jeho nejvyšší hory, ale neúčastní se jeho života, neakceptuje jeho radosti a nedovede se s ním setkat na jeho půdě. V Anglii i cizinec může pochopit, že v této psychologické inzularitě je solidní zvyk nevtírat se a jistá plachost; ale v cizině se tyto typické britské vlastnosti snadno začnou podobat pýše, nedůvěře a sobecké uzavřenosti.
 
 Nuže, i kdyby tomu tak bylo, byla by to čistě soukromá věc Angličanů samotných; ale přestává to být soukromou vlastností, jeví-li se cizím národům podobně i britská mezinárodní politika. Národové této planety mohou velmi často ocenit britskou politiku jako loajální, počestnou, ba i plnou dobré vůle; ale málokdy se zbaví dojmu, jako by jí něco scházelo: to „něco“ by se mohlo nazvat sympatie. Britská politika je světová, protože Britská říše je světová, ale ne proto, že britská mentalita je světová. Britská politika uznává jisté ideály, protože ji k tomu vede britský mravní zákon, ale ne proto, že by ji k tomu vedl jakýsi všelidský mravní zákon. Někdy podá Anglie nám ostatním pomocnou ruku jako britský gentleman; nestane se jí, aby to učinila jako bližní. Pozoroval jsem, že Angličané mají krásný smysl pro přátelství; ale zdá se, že jsou přáteli jen mezi sebou. Je krajně snadno je milovat, pokud žijeme v Anglii nebo čteme anglické knížky, to jest, pokud stojíme fyzicky nebo duševně na britské půdě; ale je jaksi těžší se s nimi skamarádit, pokud stojíme na stanovisku kteréhokoliv jiného národa této planety: už proto, že oni sami, jak se zdá, o to nestojí. Posuďte sami, je-li to vaše chyba; možná že to je – aspoň z britského hlediska – vaše národní přednost.
+
+</section>

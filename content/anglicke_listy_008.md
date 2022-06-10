@@ -3,7 +3,7 @@ title: Severní Wales
 contentType: prose
 ---
 
-  
+<section>
 
 Písmo svaté praví sice zcela zřejmě: „Ac efe a ddywedodd hefyd wrth y bobloedd. Pan weloch gwmmwl yn codi o’r gorllewin, yn y fan y dywedwch, Y mae cawod yn dyfod; ac felly y mae.“ (Luk. XIII, 54.)
 
@@ -20,3 +20,5 @@ Jinak není Wales vůbec tak divný a strašný jako jeho místní jména. Jedno
 Wales je země hor, Lloyda George, pstruhů, výletníků, černých krav, břidlice, hradů, deště, bardů a keltského jazyka. Ty hory jsou lysé a fialové, divné a plné kamení; v hotelích jsou provlhlé fotografie pořadatelů pěveckých závodů, jež jsou jaksi zdejší národní specialitou; waleské ovce mají dlouhé ocasy, a kdybyste mne rozkrájeli, je to všechno, co vím o Severním Walesu. Komu se to zdá málo, jářku, ať jede do Carnarvonu. V Bangoru se přesedá.
 
 ![53](./resources/53.jpg)
+
+</section>

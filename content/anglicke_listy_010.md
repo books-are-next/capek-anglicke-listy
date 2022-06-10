@@ -3,9 +3,13 @@ title: Zase v Anglii
 contentType: prose
 ---
 
+<section>
+
 ### Dartmoor
 
-  
+</section>
+
+<section>
 
 Nuže, viděl jsem vše: viděl jsem hory a jezera, moře, pastviny i kraje podobné zahradám; jen pořádný anglický les jsem neviděl, neboť tady, abych tak řekl, pro samé stromy nemají les. I rozjel jsem se na místo, kde je na mapě „Dartmoor Forest“ čili hvozd Dartmoorský; mimoto Dartmoor je, neklamu-li se v literární historii, oblast Baskerwillského psa. Cestou jsem se podíval, odkud vyjela Hispaniola na Stevensonův Ostrov pokladů; je to v Bristolu, nejspíš u toho mostu, kde stála ta briga vonící pomeranči. Jinak v Bristolu není docela nic, leda pěkný kostel, kde bylo zrovna nějaké modlení, katedrála, kde také byla právě pobožnost se zpěvy a kázáním, a konečně starý špitál, kde jsem si nakreslil vousatou karyatidu, chiméru s plnovousem, což je na Bristol dosti zajímavé.
 
@@ -23,7 +27,9 @@ Nahoru a dolů, nahoru a dolů zeleným Devonem mezi dvěma zdmi živého plotu,
 
 ### Přístavy
 
-  
+</section>
+
+<section>
 
 Ale ovšemže jsem se byl podívat na přístavy, a viděl jsem jich tolik, že si je nyní pletu. Tak počkejte, ve Folkestone, v Londýně, v Leith, v Glasgowě, to jsou čtyři; potom v Liverpoolu, v Bristolu, v Plymouth, a možná že jich bylo ještě víc. Nejhezčí je Plymouth, který je pěkně zavrtán mezi skalami a ostrovy a kde mají starý přístav v Barbikanu s opravdovými námořníky, rybáři a černými bárkami, a nový přístav pod promenádou Hoe s kapitány, sochami a pruhovaným majákem. Ten maják jsem nakreslil, ale není tam vidět, že je bledě modrá noc, že na moři jiskří zelené a rudé lampy bójí a lodí, že sedím pod majákem a mám na klíně černou kočku – myslím skutečnou kočku – a hladím moře, číču, světélka na vodě a celý svět v záchvatu pošetilé radosti, že jsem na světě; a dole v Barbikanu to smrdí rybinou a oceánem jako za časů starého Drakea a kapitána Marryata a moře je pokojné, širé a světelné – říkám vám, v Plymouth je ten nejhezčí přístav.
 
@@ -39,7 +45,9 @@ Dobrá, nerozumím tomu; jako by to ani nebyla jedna země a jeden národ. Budi�
 
 ### Merry Old England
 
-  
+</section>
+
+<section>
 
 Ještě jednou se však musíme zastavit; musíme se jenom podívat, kde tu vlastně je ta veselá stará Anglie. Stará Anglie, to je, dejme tomu, Stratford, to je Chester, Exeter a já nevím co ještě. Stratford, Stratford, počkejme, byl jsem tam? Ne, nebyl; i neviděl jsem rodný domek Shakespearův, nehledíme-li k tomu, že je od gruntu přestavěn a mimoto že snad žádný Shakespeare vůbec neexistoval. Ale zato jsem byl v Salisbury, kde působil zcela nepochybný Massinger, a v londýnském Templu, kde se zdržoval zaručený Dickens, a v Grasmere, kde žil historicky doložený Wordsworth, a v mnoha jiných dokumentárně nesporných rodištích a působištích. Dobrá, našel jsem porůznu onu dobrou starou Anglii, která po zevní stránce pozůstává z černého trámoví a vyřezávání, následkem čehož je pěkně černobíle pruhovaná. Nerad bych dělal příliš odvážné hypotézy; ale zdá se mi, že černobílé proužky na rukávech anglických strážníků mají svůj původ právě v tom pruhovaném slohu staroanglických domů, jak ukazuje náš obrázek.
 
@@ -59,7 +67,9 @@ Celkem vzato, země, která dovedla vytvořit nejkrásnější dětství a nejsv
 
 ### Poutník si všímá lidí
 
-  
+</section>
+
+<section>
 
 V Anglii bych chtěl být krávou nebo dítětem; jsa však mužem dospělým a zarostlým, díval jsem se na lidi této země. Nuže, není pravda, že Angličané nosí šmahem kostkované šaty, lulku nebo licousy; co se toho posledního týče, jediným pravým Angličanem je dr. Bouček v Praze. Každý Angličan nosí gumák nebo deštník, placatou čepici a v ruce noviny; je-li to Angličanka, nosí gumák nebo tenisovou raketu. Příroda má tu sklon k neobyčejné huňatosti, obrůstání, kosmatosti, vlnatosti, ježatosti a všeho druhu chlupu; tak například angličtí koně mají celé trsy a třapce chlupů na nohou a angličtí psi nejsou nic jiného než směšné balíky čupřin. Jen anglický trávník a anglický gentleman se denně holí.
 
@@ -83,7 +93,9 @@ Ale poznáte-li je blíže, jsou velmi milí a jemní; nikdy nemluví mnoho, pro
 
 ### Několik tváří
 
-  
+</section>
+
+<section>
 
 Avšak mám tu ještě několik tváří, které musím udat a popsat.
 
@@ -117,7 +129,9 @@ Měl bych ještě nakreslit mnoho pozoruhodných a krásných hlav, které jsem 
 
 ### Útěk
 
-  
+</section>
+
+<section>
 
 Nakonec vyzradím hrozné věci; například anglická neděle je strašlivá. Lidé říkají, že neděle je proto, aby se mohlo jet do přírody; není to pravda; lidé jedou do přírody, aby se v divoké panice zachránili před anglickou nedělí. V sobotu popadne každého Brita temný pud někam uprchnout, tak jako zvěř v temném pudu prchá před blížícím se zemětřesením. Kdo nemohl uniknout, uchýlí se aspoň do kostela, aby v modlitbách a zpěvu přečkal den hrůzy. Den, kdy se nevaří, nejezdí, nekouká a nemyslí. Nevím, pro jaké nevýslovné viny odsoudil Hospodin Anglii k týdennímu trestu neděle.
 
@@ -135,7 +149,9 @@ Kontinent je hlučnější, méně ukázněný, špinavější, vzteklejší, pr
 
 ### Na lodi
 
-  
+</section>
+
+<section>
 
 Člověk na břehu by chtěl být na lodi, jež odjíždí; člověk na lodi by chtěl být na břehu, který je v dálce. Když jsem byl v Anglii, pořád jsem myslil na to, co krásného je doma. Až budu doma, budu snad myslit na to, co je v Anglii vyššího a lepšího než kde jinde.
 
@@ -156,3 +172,5 @@ Anglický bílý břeh zatím zmizel; škoda, zapomněl jsem se rozloučit. Ale 
 Ale nikdo mne už nebude poslouchat.
 
 ![74](./resources/74.jpg)
+
+</section>

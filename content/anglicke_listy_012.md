@@ -3,11 +3,13 @@ title: Řeč do britského rozhlasu
 contentType: prose
 ---
 
-  
+<section>
 
 Moji drazí britští posluchači,
 
-  
+</section>
+
+<section>
 
 ačkoliv tuto řeč nebudu sám mluvit, pociťuji, zatímco ji píšu, jisté rozpaky před vámi. Zdá se mi, že by nebylo slušno, abych řekl cokoliv proti vám, protože se nemůžete bránit; nemůžete mně skočit do řeči a protestovat, že nemám pravdu. Pravda, mohli byste mne vypnout nebo případně chopit se kladiva a rozbít svůj přijímač; přesto by jakési vlny (nebo co to je) pobíhaly vesmírem a roznášely křivé poznatky o ostrovanech Velké Británie. Mimoto jsem cizinec a byl jsem v Anglii jenom jednou; proto prosím, abyste mne nepokládali za znalce, který ví o Anglii více než jiní, nýbrž právě za cizince, který se v Anglii podivil věcem, kterým vy se nedivíte.
 
@@ -46,3 +48,5 @@ Nejsem lhář. Mohl bych pokračovat a vypočítat tisíc a jeden rozdíl mezi �
 Ale je načase, abych se dostal k jádru věci. Tato Anglie, tato stará, paradoxní, partikulární, insulární, anglická Anglie, zkrátka tato vaše Velká Británie, není Anglií celou. Všude ve světě, kde vidíte parlament, vidíte kus Anglie; neboť Anglie zrodila parlamentarismus. Všude, kde potkáte politickou demokracii, nalézáte kus anglického duchovního teritoria; neboť Anglie první v našem světě vytyčila ideály demokracie. A všude na této planetě, kde platí ideály osobní svobody a důstojnosti, tolerance, úcty k individualitě a nedotknutelnosti lidských práv, tam je kulturní dědictví Anglie, a vy nepohlížíte na cizí země, nýbrž na Větší Anglii, která je domovem většiny civilizovaných lidí. Nuže, každý boj o uchování demokracie je zároveň boj o tuto Větší Anglii, o tuto duchovní říši, která daleko přesahuje hranice Velké Británie. Tento boj, nebo, pacifičtěji řečeno, tento vývoj světa rozhodne o osudu jistých zásad a hodnot a ideálů, ve kterých se projevil duch Anglie; dnes opravdu jde o jejich úchovu nebo zánik. Řekl bych, že anglické pobřeží se začíná všude tam, kde jsou v platnosti hodnoty svobody. Na tomto světě je mnoho Doverů, ale musíte je hledat na morální mapě světa.
 
 Doufám, že touto úvahou nepřekračuju téma, které mi bylo uloženo. Máte-li tu trpělivost, že posloucháte, jak se cizí poutník dívá na Anglii, dopřejte mu, aby přitom myslel i na tu širší oblast, která byla utvářena také Anglií, na toho ducha Západu, který by se nezrodil bez Anglie. Mám stejně rád Anglii pro její osobitost jako pro její univerzalitu. Jednou mi kdosi položil otázku, která země se mi nejvíc líbí. Řekl jsem mu: „Nejlepší krajina, kterou jsem viděl, je v Itálii, nejlepší život, který jsem pozoroval, ve Francii, nejlepší lidé, které jsem potkal, v Anglii; ale žít mohu jen ve své zemi.“ Nuže, nemnozí z vás znají tu zem, ve které na vás myslím. Před třemi sty lety nechal váš Shakespeare ztroskotat líbeznou Perditu na pobřeží českém. Byl to zčásti omyl a zčásti to bylo předčasné. Nemáme mořského břehu, a teprve v přítomných dobách můžeme jistým právem říci: „Také my jsme Dover, a naše hranice jsou útesy Západu.“
+
+</section>
