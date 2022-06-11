@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-376535a",
-  "revision": "376535a",
+  "identifier": "capek-anglicke-listy-bd91473",
+  "revision": "bd91473",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:47:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883247835
+    "date": "Sat Jun 11 2022 11:51:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948275303
   },
   "documents": [
     {
