@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-bd91473",
-  "revision": "bd91473",
+  "identifier": "capek-anglicke-listy-fa447f2",
+  "revision": "fa447f2",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:51:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948275303
+    "date": "Mon Jun 13 2022 21:52:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157149704
   },
   "documents": [
     {
@@ -285,9 +285,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 44,
-      "chars": 325,
-      "ideas": 5,
+      "words": 105,
+      "chars": 707,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "anglicke_listy_016.html",
@@ -305,9 +305,9 @@
   ],
   "totals": {
     "all": {
-      "words": 21038,
-      "chars": 127277,
-      "ideas": 447
+      "words": 21099,
+      "chars": 127659,
+      "ideas": 456
     },
     "chapters": {
       "words": 20989,
