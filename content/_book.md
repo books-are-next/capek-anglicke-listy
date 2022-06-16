@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-12-04T00:00:00.000Z'
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - anglicke_listy_005.html
