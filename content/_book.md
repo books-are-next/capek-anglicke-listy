@@ -27,7 +27,7 @@ readingOrder:
   - anglicke_listy_014.html
   - anglicke_listy_015.html
   - anglicke_listy_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
