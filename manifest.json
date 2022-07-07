@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-8137309",
-  "revision": "8137309",
+  "identifier": "capek-anglicke-listy-43de805",
+  "revision": "43de805",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -24,11 +24,11 @@
     "anglicke_listy_014.html",
     "anglicke_listy_015.html",
     "anglicke_listy_016.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:55:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978155673
+    "date": "Thu Jul 07 2022 08:17:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181860856
   },
   "documents": [
     {
@@ -97,7 +97,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Cesta do Skotska",
+          "name": "Cesta do Skotska",
           "id": null,
           "children": []
         }
@@ -137,7 +137,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Listy o Irsku",
+          "name": "Listy o Irsku",
           "id": null,
           "children": []
         }
@@ -157,7 +157,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zase v Anglii",
+          "name": "Zase v Anglii",
           "id": null,
           "children": []
         }
@@ -177,7 +177,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vy Angličané (K anketě Daily Heraldu)",
+          "name": "Vy Angličané (K anketě Daily Heraldu)",
           "id": null,
           "children": []
         }
@@ -197,7 +197,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Řeč do britského rozhlasu",
+          "name": "Řeč do britského rozhlasu",
           "id": null,
           "children": []
         }
@@ -237,7 +237,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -272,7 +272,7 @@
       "role": "chapter",
       "order": 12,
       "prev": "anglicke_listy_015.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -285,11 +285,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 866,
+      "chars": 865,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "anglicke_listy_016.html",
       "next": null,
@@ -307,7 +307,7 @@
   "totals": {
     "all": {
       "words": 21124,
-      "chars": 127826,
+      "chars": 127825,
       "ideas": 459
     },
     "chapters": {
