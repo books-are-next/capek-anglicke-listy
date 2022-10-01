@@ -16,3 +16,27 @@ Pokud jsou Angličané ostrovany v Anglii, je to jejich věc; poněkud horší j
 Nuže, i kdyby tomu tak bylo, byla by to čistě soukromá věc Angličanů samotných; ale přestává to být soukromou vlastností, jeví-li se cizím národům podobně i britská mezinárodní politika. Národové této planety mohou velmi často ocenit britskou politiku jako loajální, počestnou, ba i plnou dobré vůle; ale málokdy se zbaví dojmu, jako by jí něco scházelo: to „něco“ by se mohlo nazvat sympatie. Britská politika je světová, protože Britská říše je světová, ale ne proto, že britská mentalita je světová. Britská politika uznává jisté ideály, protože ji k tomu vede britský mravní zákon, ale ne proto, že by ji k tomu vedl jakýsi všelidský mravní zákon. Někdy podá Anglie nám ostatním pomocnou ruku jako britský gentleman; nestane se jí, aby to učinila jako bližní. Pozoroval jsem, že Angličané mají krásný smysl pro přátelství; ale zdá se, že jsou přáteli jen mezi sebou. Je krajně snadno je milovat, pokud žijeme v Anglii nebo čteme anglické knížky, to jest, pokud stojíme fyzicky nebo duševně na britské půdě; ale je jaksi těžší se s nimi skamarádit, pokud stojíme na stanovisku kteréhokoliv jiného národa této planety: už proto, že oni sami, jak se zdá, o to nestojí. Posuďte sami, je-li to vaše chyba; možná že to je – aspoň z britského hlediska – vaše národní přednost.
 
 </section>
+
+[^1]: Punch – tehdejší humoristický časopis. _Pozn. red._
+
+[^2]: Damara – pryskyřice z damaroně nebo jiných asijských stromů. _Pozn. red._
+
+[^3]: Svislý, kolmý; zde označení slohu z doby pozdní angl. gotiky. _Pozn. red._
+
+[^4]: Chrámová skladba, kantáta. _Pozn. red._
+
+[^5]: Eli, Eli, lama sabachtani! – parafráze posledních slov utrpení Ježíše Krista (Bože můj, proč jsi mě opustil!) _Pozn. red._
+
+[^6]: Wynds nebo closes (skot. dialekt) – úzké cesty k domkům ve starém Edinburghu. _Pozn. red._
+
+[^7]: Gleny – horské rokle, úžlabiny. _Pozn. red._
+
+[^8]: Terra hyberborea – podle starověké představy Země blaha. _Pozn. red._
+
+[^9]: Vyhlídkové otevřené autokary. _Pozn. red._
+
+[^10]: Z franc. clavecin – cembalo, starý klávesový hudební nástroj. _Pozn. red._
+
+[^11]: Smetanový vaječný krém. _Pozn. red._
+
+[^12]: Ostrovní. _Pozn. red._

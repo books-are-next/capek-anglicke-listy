@@ -50,3 +50,27 @@ Ale je načase, abych se dostal k jádru věci. Tato Anglie, tato stará, parado
 Doufám, že touto úvahou nepřekračuju téma, které mi bylo uloženo. Máte-li tu trpělivost, že posloucháte, jak se cizí poutník dívá na Anglii, dopřejte mu, aby přitom myslel i na tu širší oblast, která byla utvářena také Anglií, na toho ducha Západu, který by se nezrodil bez Anglie. Mám stejně rád Anglii pro její osobitost jako pro její univerzalitu. Jednou mi kdosi položil otázku, která země se mi nejvíc líbí. Řekl jsem mu: „Nejlepší krajina, kterou jsem viděl, je v Itálii, nejlepší život, který jsem pozoroval, ve Francii, nejlepší lidé, které jsem potkal, v Anglii; ale žít mohu jen ve své zemi.“ Nuže, nemnozí z vás znají tu zem, ve které na vás myslím. Před třemi sty lety nechal váš Shakespeare ztroskotat líbeznou Perditu na pobřeží českém. Byl to zčásti omyl a zčásti to bylo předčasné. Nemáme mořského břehu, a teprve v přítomných dobách můžeme jistým právem říci: „Také my jsme Dover, a naše hranice jsou útesy Západu.“
 
 </section>
+
+[^1]: Punch – tehdejší humoristický časopis. _Pozn. red._
+
+[^2]: Damara – pryskyřice z damaroně nebo jiných asijských stromů. _Pozn. red._
+
+[^3]: Svislý, kolmý; zde označení slohu z doby pozdní angl. gotiky. _Pozn. red._
+
+[^4]: Chrámová skladba, kantáta. _Pozn. red._
+
+[^5]: Eli, Eli, lama sabachtani! – parafráze posledních slov utrpení Ježíše Krista (Bože můj, proč jsi mě opustil!) _Pozn. red._
+
+[^6]: Wynds nebo closes (skot. dialekt) – úzké cesty k domkům ve starém Edinburghu. _Pozn. red._
+
+[^7]: Gleny – horské rokle, úžlabiny. _Pozn. red._
+
+[^8]: Terra hyberborea – podle starověké představy Země blaha. _Pozn. red._
+
+[^9]: Vyhlídkové otevřené autokary. _Pozn. red._
+
+[^10]: Z franc. clavecin – cembalo, starý klávesový hudební nástroj. _Pozn. red._
+
+[^11]: Smetanový vaječný krém. _Pozn. red._
+
+[^12]: Ostrovní. _Pozn. red._
