@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-c337d84",
-  "revision": "c337d84",
+  "identifier": "capek-anglicke-listy-c7a8656",
+  "revision": "c7a8656",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:19:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486363601
+    "date": "Sat Oct 01 2022 15:51:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639494091
   },
   "documents": [
     {
@@ -66,9 +66,9 @@
     {
       "title": "Anglie",
       "file": "anglicke_listy_006.html",
-      "words": 9307,
-      "chars": 56491,
-      "ideas": 114,
+      "words": 9366,
+      "chars": 56840,
+      "ideas": 119,
       "role": "chapter",
       "order": 2,
       "prev": "anglicke_listy_005.html",
@@ -86,9 +86,9 @@
     {
       "title": "Cesta do Skotska",
       "file": "anglicke_listy_007.html",
-      "words": 3505,
-      "chars": 20644,
-      "ideas": 73,
+      "words": 3535,
+      "chars": 20814,
+      "ideas": 76,
       "role": "chapter",
       "order": 3,
       "prev": "anglicke_listy_006.html",
@@ -146,9 +146,9 @@
     {
       "title": "Zase v Anglii",
       "file": "anglicke_listy_010.html",
-      "words": 3550,
-      "chars": 21512,
-      "ideas": 71,
+      "words": 3568,
+      "chars": 21616,
+      "ideas": 73,
       "role": "chapter",
       "order": 6,
       "prev": "anglicke_listy_009.html",
@@ -166,9 +166,9 @@
     {
       "title": "Vy Angličané (K anketě Daily Heraldu)",
       "file": "anglicke_listy_011.html",
-      "words": 890,
-      "chars": 5527,
-      "ideas": 6,
+      "words": 894,
+      "chars": 5546,
+      "ideas": 7,
       "role": "chapter",
       "order": 7,
       "prev": "anglicke_listy_010.html",
@@ -266,9 +266,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "anglicke_listy_016.html",
-      "words": 125,
-      "chars": 793,
-      "ideas": 13,
+      "words": 247,
+      "chars": 1505,
+      "ideas": 25,
       "role": "chapter",
       "order": 12,
       "prev": "anglicke_listy_015.html",
@@ -286,9 +286,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 129,
-      "chars": 866,
-      "ideas": 16,
+      "words": 120,
+      "chars": 823,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "anglicke_listy_016.html",
@@ -306,14 +306,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21124,
-      "chars": 127849,
-      "ideas": 459
+      "words": 21348,
+      "chars": 129160,
+      "ideas": 481
     },
     "chapters": {
-      "words": 20989,
-      "chars": 126947,
-      "ideas": 439
+      "words": 21222,
+      "chars": 128301,
+      "ideas": 462
     }
   }
 }
