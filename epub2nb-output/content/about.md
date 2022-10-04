@@ -22,7 +22,7 @@ V MKP 2. opravené vydání
 [^10]: Z franc. clavecin – cembalo, starý klávesový hudební nástroj. _Pozn. red._  
 [^11]: Smetanový vaječný krém. _Pozn. red._  
 [^12]: Ostrovní. _Pozn. red._  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -30,10 +30,10 @@ Znění tohoto textu vychází z díla [Anglické listy](https://search.mlp.cz/c
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Karel Čapek: Anglické listy), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***

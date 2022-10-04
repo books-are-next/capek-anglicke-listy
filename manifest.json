@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-c7a8656",
-  "revision": "c7a8656",
+  "identifier": "capek-anglicke-listy-9187214",
+  "revision": "9187214",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:51:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639494091
+    "date": "Tue Oct 04 2022 16:36:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901372788
   },
   "documents": [
     {
@@ -286,9 +286,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 120,
+      "words": 118,
       "chars": 823,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "anglicke_listy_016.html",
@@ -306,9 +306,9 @@
   ],
   "totals": {
     "all": {
-      "words": 21348,
+      "words": 21346,
       "chars": 129160,
-      "ideas": 481
+      "ideas": 479
     },
     "chapters": {
       "words": 21222,
