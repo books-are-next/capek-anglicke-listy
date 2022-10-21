@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-anglicke-listy-2925785",
-  "revision": "2925785",
+  "identifier": "capek-anglicke-listy-0e2a0a8",
+  "revision": "0e2a0a8",
   "readingOrder": [
     "promo.html",
     "anglicke_listy_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:53:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417186292
+    "date": "Fri Oct 21 2022 11:27:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351651180
   },
   "documents": [
     {
