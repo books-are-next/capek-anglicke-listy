@@ -22,7 +22,7 @@ V MKP 2. opravené vydání
 [^10]: Z franc. clavecin – cembalo, starý klávesový hudební nástroj. _Pozn. red._  
 [^11]: Smetanový vaječný krém. _Pozn. red._  
 [^12]: Ostrovní. _Pozn. red._  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
